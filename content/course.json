@@ -1,0 +1,10 @@
+{
+  "id": "jhist",
+  "name": "Jewish History",
+  "tagline": "One kit per unit. Pick a unit to study; progress in each one is saved in this browser.",
+  "hub": "https://dn4563.github.io/Study-Hub-by-David/",
+  "accent": "#7A4E2D",
+  "accentDark": "#D9A47E",
+  "examTab": "Mock test",
+  "units": []
+}
