@@ -1272,7 +1272,7 @@
      "options": [
       "Avram wanted to escape from his father's family in Haran",
       "Avram knew exactly where he was going",
-      "Avram's response was immediate obedience",
+      "Avram responded with obedience, not debate",
       "Avram argued before agreeing to go"
      ],
      "ans": 2,
@@ -1701,7 +1701,7 @@
      "type": "mcq",
      "skill": "Family tree",
      "topic": "Family Tree",
-     "stem": "Which order is correct?",
+     "stem": "Which order of generations is correct?",
      "options": [
       "Avraham → Yishmael → Yaakov → 12 sons",
       "Avraham → Yitzchak → Yaakov → 12 sons",
