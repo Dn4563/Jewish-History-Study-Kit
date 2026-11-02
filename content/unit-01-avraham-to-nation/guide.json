@@ -1,0 +1,338 @@
+{
+ "flows": [
+  {
+   "id": "FC1",
+   "title": "Avraham's journey",
+   "deck": 1,
+   "steps": [
+    "Born in Mesopotamia (Ur)",
+    "Family moves to Haran",
+    "G-d's call: 'Go forth' (Genesis 12)",
+    "Avraham goes, with Lot",
+    "Canaan: the land G-d will show him"
+   ]
+  },
+  {
+   "id": "FC2",
+   "title": "Why Avraham? Three sources",
+   "deck": 1,
+   "steps": [
+    "Genesis 12: no reason given; G-d speaks first",
+    "Bereishit Rabbah 39:1: Avraham asks 'Does the palace have no owner?'; G-d answers",
+    "Rambam: as a child, with no teacher, he reasoned his way to one G-d",
+    "Class positions: G-d chose / Avraham chose / they chose each other"
+   ]
+  },
+  {
+   "id": "FC3",
+   "title": "From Canaan to Egypt",
+   "deck": 5,
+   "steps": [
+    "Famine; Joseph rations grain in Egypt",
+    "Yaakov's family (70 persons) settles in Goshen",
+    "They prosper and multiply",
+    "Joseph: 'G-d will surely take notice of you… carry up my bones'",
+    "A new king who did not know Joseph fears them",
+    "Slavery, then the Exodus"
+   ]
+  },
+  {
+   "id": "FC4",
+   "title": "Six events that built a nation (Lesson 2.3)",
+   "deck": 5,
+   "steps": [
+    "Leaving Egypt: freedom",
+    "Crossing the sea: no way back; belief in G-d and Moshe",
+    "Manna: relying on G-d together",
+    "Ten Commandments: shared laws",
+    "Mishkan: shared worship",
+    "Entering the land: homeland"
+   ]
+  },
+  {
+   "id": "FC5",
+   "title": "After an Israeli election",
+   "deck": 7,
+   "steps": [
+    "Voters choose party lists",
+    "Parties under ~3.25% get no seats",
+    "President appoints someone to try to form a government",
+    "Negotiate a coalition of 61+",
+    "If that fails, another leader may try",
+    "If no one can, new elections"
+   ]
+  },
+  {
+   "id": "FC6",
+   "title": "Yom Kippur: from covenant to action",
+   "deck": 3,
+   "steps": [
+    "Covenant: I belong",
+    "Responsibility: my belonging asks something of me",
+    "Yom Kippur: I will sometimes fall short",
+    "Teshuvah: I can return, repair and act"
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "title": "Avraham in five stories",
+   "rows": [
+    [
+     "Story",
+     "What he does",
+     "Strength or tension"
+    ],
+    [
+     "Leaving Haran (Gen 12)",
+     "Goes without a question",
+     "Faith or obedience; 'a sheep'?"
+    ],
+    [
+     "Lot (Gen 13)",
+     "Lets Lot choose the land",
+     "Peacemaking, selflessness"
+    ],
+    [
+     "Sodom (Gen 18)",
+     "Argues for the innocent",
+     "Courage, justice, caring for strangers"
+    ],
+    [
+     "Hagar (Gen 16)",
+     "'Your servant is in your hands'",
+     "Passive; doesn't protect the vulnerable"
+    ],
+    [
+     "Akeida (Gen 22)",
+     "Rises early, binds Yitzchak",
+     "Obedience; why no argument for his son?"
+    ]
+   ]
+  },
+  {
+   "title": "Ur vs. Canaan (evidence packet)",
+   "rows": [
+    [
+     "",
+     "Ur (southern Mesopotamia)",
+     "Canaan"
+    ],
+    [
+     "Water",
+     "Tigris and Euphrates; irrigation canals",
+     "Seasonal rainfall"
+    ],
+    [
+     "Settlement",
+     "Dense city, temples, writing",
+     "Towns, fortified settlements, rural and pastoral"
+    ],
+    [
+     "Economy",
+     "Long-distance trade; imported timber, metals, stone",
+     "Grain, grapes, olives; sheep and goats"
+    ],
+    [
+     "Risks",
+     "Leaving behind wealth and networks",
+     "Drought and famine; land already inhabited"
+    ]
+   ]
+  },
+  {
+   "title": "Covenant: Avraham vs. Sinai",
+   "rows": [
+    [
+     "",
+     "Avraham (Genesis 12)",
+     "Sinai (Exodus 19, 24)"
+    ],
+    [
+     "Who",
+     "One man and his descendants",
+     "The whole people"
+    ],
+    [
+     "Obligation",
+     "Leave home and trust G-d",
+     "'If you obey my voice and keep my covenant'"
+    ],
+    [
+     "Promises",
+     "Great nation, blessing, great name, be a blessing",
+     "Treasured possession; a kingdom of priests and a holy nation"
+    ],
+    [
+     "Response",
+     "He goes, silently",
+     "'We will do and obey,' with one voice"
+    ]
+   ]
+  },
+  {
+   "title": "Family, people, nation",
+   "rows": [
+    [
+     "",
+     "Definition",
+     "Israelite example"
+    ],
+    [
+     "Family",
+     "Related by blood or marriage",
+     "Jacob's 70 persons (Genesis 46)"
+    ],
+    [
+     "People",
+     "Many families with shared history, values and background",
+     "'The Israelite people' (Exodus 1)"
+    ],
+    [
+     "Nation",
+     "A people with land, laws and government",
+     "Sinai laws, Mishkan, then the land"
+    ]
+   ]
+  },
+  {
+   "title": "Promises of Genesis 12:2–3",
+   "rows": [
+    [
+     "Promise",
+     "What it means"
+    ],
+    [
+     "I will make of you a great nation",
+     "Descendants"
+    ],
+    [
+     "I will bless you",
+     "Blessing for Avraham"
+    ],
+    [
+     "I will make your name great",
+     "Fame"
+    ],
+    [
+     "You shall be a blessing",
+     "Blessing others"
+    ],
+    [
+     "I will bless those who bless you…",
+     "Protection"
+    ],
+    [
+     "All the families of the earth shall bless themselves by you",
+     "Reach beyond one family"
+    ]
+   ]
+  },
+  {
+   "title": "Israel's government",
+   "rows": [
+    [
+     "Term",
+     "Fact"
+    ],
+    [
+     "Knesset",
+     "120 seats"
+    ],
+    [
+     "Majority",
+     "61 seats; no party has ever won it alone"
+    ],
+    [
+     "Ballot",
+     "Vote for a party list"
+    ],
+    [
+     "Threshold",
+     "About 3.25% to enter the Knesset"
+    ],
+    [
+     "President",
+     "Mainly ceremonial; appoints who tries to form a government"
+    ],
+    [
+     "Coalition pro",
+     "Smaller parties gain influence"
+    ],
+    [
+     "Coalition con",
+     "Fragile if partners leave"
+    ]
+   ]
+  },
+  {
+   "title": "Your true/false review on claims",
+   "rows": [
+    [
+     "Claim",
+     "Answer"
+    ],
+    [
+     "Most Muslims are Arab",
+     "False"
+    ],
+    [
+     "All Palestinians are Muslim",
+     "False"
+    ],
+    [
+     "Some of the deadliest attacks on U.S. synagogues were committed by Islamic extremists",
+     "False"
+    ],
+    [
+     "Everyone at a pro-Palestinian protest supports Hamas",
+     "False"
+    ],
+    [
+     "Both the Torah and the Quran contain passages about warfare",
+     "True"
+    ],
+    [
+     "Even 0.1% supporting extremism can pose a serious risk",
+     "True"
+    ]
+   ]
+  }
+ ],
+ "cheat": [
+  {
+   "title": "Skills on the test",
+   "kind": "list",
+   "items": [
+    "Best-supported conclusion: what the source proves, not just what's true.",
+    "Compare two sources or events.",
+    "Cause and effect.",
+    "Evidence vs. inference.",
+    "Spot overgeneralization ('all,' 'everyone').",
+    "Apply a concept to a new example.",
+    "Honors: test claims against counterevidence; weigh interpretations; know a source's limits."
+   ]
+  },
+  {
+   "title": "One-line answers",
+   "kind": "list",
+   "items": [
+    "Covenant = two-way, ongoing, passed down.",
+    "Chosen = responsibility, not perfection.",
+    "Torah gives no reason for choosing Avraham.",
+    "Family → people (Exodus 1) → nation (laws, worship, land).",
+    "Pakod yifkod: 'G-d will surely take notice of you.'",
+    "Largest party ≠ governing party; need 61."
+   ]
+  }
+ ],
+ "topicDeck": {
+  "Avraham": 2,
+  "Covenant": 3,
+  "Family Tree": 4,
+  "Family to Nation": 5,
+  "Antisemitism": 6,
+  "Israel": 7,
+  "Traditions": 8
+ }
+}

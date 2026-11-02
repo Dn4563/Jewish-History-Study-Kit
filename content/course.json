@@ -6,5 +6,14 @@
   "accent": "#7A4E2D",
   "accentDark": "#D9A47E",
   "examTab": "Mock test",
-  "units": []
+  "units": [
+    {
+      "id": "u1",
+      "dir": "unit-01-avraham-to-nation",
+      "label": "Test 1",
+      "title": "Avraham to Nation",
+      "blurb": "Avraham and the covenant, the family tree, Egypt and becoming a nation, antisemitism and evaluating claims, Israel's mandate and government, and (Honors) how traditions develop.",
+      "learnMix": true
+    }
+  ]
 }

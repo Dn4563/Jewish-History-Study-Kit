@@ -1,0 +1,230 @@
+[
+ {
+  "id": "SQ1",
+  "deck": 1,
+  "q": "A friend says, 'The Torah explains that G-d chose Avraham because he discovered G-d as a child.' What is the best correction?",
+  "opts": [
+   "That idea comes from Exodus 1",
+   "The Torah says Avraham was the richest man",
+   "That idea comes from Rambam, not Genesis",
+   "The Torah says G-d chose Lot first"
+  ],
+  "ans": 2,
+  "exp": "Genesis 12 is silent; Rambam and the midrash fill the gap.",
+  "why": [
+   "Exodus 1 is about Pharaoh.",
+   "The Torah gives no reason.",
+   "",
+   "Lot isn't chosen."
+  ]
+ },
+ {
+  "id": "SQ2",
+  "deck": 2,
+  "q": "Avraham argues with G-d to save strangers but rises early to obey when told to offer his son. Which statement is most accurate?",
+  "opts": [
+   "His responses differ by situation",
+   "He always argues with G-d",
+   "He never questions or challenges G-d at all",
+   "He argues only for his own family"
+  ],
+  "ans": 0,
+  "exp": "Use the five stories as evidence.",
+  "why": [
+   "",
+   "Not in Genesis 12 or 22.",
+   "He questions G-d about Sodom.",
+   "He argues for strangers."
+  ]
+ },
+ {
+  "id": "SQ3",
+  "deck": 3,
+  "q": "Which situation is a covenant rather than a command?",
+  "opts": [
+   "A ruler orders subjects to pay a tax",
+   "Both sides promise something and keep it over time",
+   "A person decides privately to believe",
+   "A one-time sale with no future contact between buyer and seller"
+  ],
+  "ans": 1,
+  "exp": "Two-way and lasting.",
+  "why": [
+   "One-sided.",
+   "",
+   "Belief only.",
+   "Not ongoing."
+  ]
+ },
+ {
+  "id": "SQ4",
+  "deck": 3,
+  "q": "Why is brit milah important in your notes about Avraham?",
+  "opts": [
+   "It was a law at Sinai",
+   "It was Pharaoh's command",
+   "It replaced belief in G-d with a ritual",
+   "It is the sign of the covenant"
+  ],
+  "ans": 3,
+  "exp": "Your notes: brit milah is the covenant; maybe the first Jew.",
+  "why": [
+   "It begins with Avraham.",
+   "Not Pharaoh.",
+   "It adds a sign to belief.",
+   ""
+  ]
+ },
+ {
+  "id": "SQ5",
+  "deck": 4,
+  "q": "Which person is NOT one of Yaakov's 12 sons?",
+  "opts": [
+   "Levi",
+   "Gad",
+   "Esau",
+   "Naphtali"
+  ],
+  "ans": 2,
+  "exp": "Esau is Yaakov's brother.",
+  "why": [
+   "Leah's son.",
+   "Zilpah's son.",
+   "",
+   "Bilhah's son."
+  ]
+ },
+ {
+  "id": "SQ6",
+  "deck": 5,
+  "q": "The Israelites have grown and Pharaoh calls them a 'people,' but they have no land or laws of their own. What are they?",
+  "opts": [
+   "A people, not yet a nation",
+   "A family of 70 persons",
+   "A nation with a government",
+   "A kingdom of priests already"
+  ],
+  "ans": 0,
+  "exp": "Lesson 2.1.",
+  "why": [
+   "",
+   "They have grown far beyond that.",
+   "They have no government of their own.",
+   "That comes at Sinai."
+  ]
+ },
+ {
+  "id": "SQ7",
+  "deck": 5,
+  "q": "Why did Joseph make his brothers swear to carry up his bones?",
+  "opts": [
+   "He wanted to be buried in Goshen",
+   "He expected G-d to bring them back",
+   "He planned to rule Canaan himself",
+   "He feared Pharaoh would take his bones away"
+  ],
+  "ans": 1,
+  "exp": "Pakod yifkod.",
+  "why": [
+   "He wanted to leave Egypt.",
+   "",
+   "He was about to die.",
+   "No such fear is stated."
+  ]
+ },
+ {
+  "id": "SQ8",
+  "deck": 5,
+  "q": "Which event added shared laws to the Israelites' nationhood?",
+  "opts": [
+   "Leaving Egypt under Pharaoh",
+   "Crossing the sea on dry land after leaving Egypt",
+   "Entering the land with Joshua",
+   "Receiving the Ten Commandments"
+  ],
+  "ans": 3,
+  "exp": "Lesson 2.3 chart.",
+  "why": [
+   "That gave freedom.",
+   "That ended any return.",
+   "That gave a homeland.",
+   ""
+  ]
+ },
+ {
+  "id": "SQ9",
+  "deck": 6,
+  "q": "A post says, 'Everyone who attends that protest supports Hamas.' What is the main problem?",
+  "opts": [
+   "It criticizes a government policy fairly",
+   "It quotes the Torah incorrectly",
+   "It overgeneralizes from some to all",
+   "It uses too many statistics"
+  ],
+  "ans": 2,
+  "exp": "Your review marked this false.",
+  "why": [
+   "It's about people, not policy.",
+   "No Torah quote.",
+   "",
+   "It uses none."
+  ]
+ },
+ {
+  "id": "SQ10",
+  "deck": 7,
+  "q": "The largest party has 27 seats. Can it govern alone?",
+  "opts": [
+   "No, it needs 61 with partners",
+   "Yes, the largest party always governs",
+   "Yes, if the president approves it",
+   "No, because 27 is over the threshold"
+  ],
+  "ans": 0,
+  "exp": "Coalitions.",
+  "why": [
+   "",
+   "Most seats isn't a majority.",
+   "The president is ceremonial.",
+   "The threshold isn't the issue."
+  ]
+ },
+ {
+  "id": "SQ11",
+  "deck": 7,
+  "q": "What was the stated purpose of the mandate system after World War I?",
+  "opts": [
+   "Return the land to the Ottomans",
+   "Help a people prepare to rule itself",
+   "Make Britain rule the land forever as a colony",
+   "Create the Knesset right away"
+  ],
+  "ans": 1,
+  "exp": "Your notes.",
+  "why": [
+   "The Ottomans had fallen.",
+   "",
+   "It was meant to be temporary.",
+   "Israel did not exist yet."
+  ]
+ },
+ {
+  "id": "SQ12",
+  "deck": 8,
+  "q": "Some Turkish Jews used sugar instead of honey on Rosh Hashanah. What does this show?",
+  "opts": [
+   "They rejected the wish for a sweet year",
+   "The Torah banned honey",
+   "Every Jewish community around the world copied them",
+   "The meaning stayed while the form changed"
+  ],
+  "ans": 3,
+  "exp": "Common core, local form.",
+  "why": [
+   "Sugar keeps sweetness.",
+   "It was a kashrut worry.",
+   "It was local.",
+   ""
+  ]
+ }
+]

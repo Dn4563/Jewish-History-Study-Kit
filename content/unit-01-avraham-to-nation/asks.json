@@ -1,0 +1,2522 @@
+{
+ "Mesopotamia": [
+  {
+   "q": "A historian says Avraham's story begins in a wealthy, river-watered region. Which detail from your evidence packet best supports this?",
+   "right": "Canals from two rivers irrigated its fields",
+   "wrong": [
+    [
+     "Its farms depended on seasonal rainfall alone",
+     "That describes Canaan, not Mesopotamia."
+    ],
+    [
+     "It had no cities, only nomads and herders in tents",
+     "Ur was part of a highly developed urban civilization."
+    ],
+    [
+     "It was a small coastal strip on the Mediterranean Sea",
+     "That describes Canaan's location."
+    ]
+   ],
+   "exp": "The Tigris and Euphrates supported irrigation, grain and wealth."
+  }
+ ],
+ "Ur": [
+  {
+   "q": "Which detail would a wealthy household in Ur most likely give as a reason to stay?",
+   "right": "Settled wealth, trade and family networks",
+   "wrong": [
+    [
+     "Canaan was empty land that nobody had claimed yet",
+     "The packet says Canaan was already inhabited; that is not a reason to stay anyway."
+    ],
+    [
+     "Ur depended on rainfall that failed in some years",
+     "Ur relied on river irrigation; Canaan relied on rainfall."
+    ],
+    [
+     "Ur had no temples, writing or organized government",
+     "Ur had temples, writing and officials."
+    ]
+   ],
+   "exp": "Ur offered an established life: livestock, goods, land rights and family and business ties."
+  }
+ ],
+ "Canaan": [
+  {
+   "q": "According to the evidence packet, which risk did a household moving to Canaan face that Ur's farmers faced less?",
+   "right": "Drought when seasonal rain failed",
+   "wrong": [
+    [
+     "Floods from the Tigris and Euphrates rivers",
+     "Those rivers are in Mesopotamia, not Canaan."
+    ],
+    [
+     "Having no neighbors or other peoples nearby",
+     "Canaan was already inhabited by different groups."
+    ],
+    [
+     "A total lack of trade routes in or out of the region",
+     "Routes linked Canaan to Egypt, the north and the coast."
+    ]
+   ],
+   "exp": "Canaan depended on rainfall, so drought and famine were serious dangers."
+  }
+ ],
+ "Haran": [
+  {
+   "q": "On the trade-route map, which city sits between Ur and Canaan?",
+   "right": "Haran",
+   "wrong": [
+    [
+     "Babylon, on the Euphrates",
+     "Babylon is in southern Mesopotamia near Ur, not between Ur and Canaan."
+    ],
+    [
+     "Egypt, south of Canaan",
+     "Egypt is beyond Canaan, not between Ur and Canaan."
+    ],
+    [
+     "Goshen, in Egypt",
+     "Goshen is the region in Egypt where Jacob's family settled."
+    ]
+   ],
+   "exp": "The route ran Ur → Haran → Canaan → Egypt."
+  }
+ ],
+ "Dangers of travel": [
+  {
+   "q": "Why does the evidence packet's description of travel make Avraham's departure more striking?",
+   "right": "It shows how costly and risky leaving was",
+   "wrong": [
+    [
+     "It proves Avraham traveled by sea to Canaan",
+     "The packet describes overland routes."
+    ],
+    [
+     "It shows travel was quick and completely safe",
+     "It lists many dangers and long travel times."
+    ],
+    [
+     "It explains why Avraham never reached Canaan",
+     "Avraham did reach Canaan."
+    ]
+   ],
+   "exp": "Leaving meant risking a long, dangerous journey."
+  }
+ ],
+ "Lech lecha": [
+  {
+   "q": "Which detail of Genesis 12:1 shows that Avraham did not know where he was going?",
+   "right": "\"to the land that I will show you\"",
+   "wrong": [
+    [
+     "\"I will make of you a great nation\"",
+     "That is a promise, not a statement about the destination."
+    ],
+    [
+     "\"and Lot went with him\"",
+     "That names a companion, not the destination."
+    ],
+    [
+     "\"Shall not the Judge of all the earth do justice?\"",
+     "That is from the Sodom story in Genesis 18."
+    ]
+   ],
+   "exp": "The destination is not named; G-d will show it."
+  }
+ ],
+ "Three things left behind": [
+  {
+   "q": "Why might the Torah list all three things instead of just saying 'Leave'?",
+   "right": "To stress how much he was giving up",
+   "wrong": [
+    [
+     "Because Avraham owned three separate houses",
+     "The list is about what leaving costs, not property."
+    ],
+    [
+     "Because each one was a separate journey",
+     "It describes one departure."
+    ],
+    [
+     "Because G-d wanted him to choose only one of them",
+     "He had to leave all three."
+    ]
+   ],
+   "exp": "Listing each layer shows the size of the sacrifice."
+  }
+ ],
+ "Avraham's silence": [
+  {
+   "q": "What is missing from Avraham's response in Genesis 12:4?",
+   "right": "Any question or objection",
+   "wrong": [
+    [
+     "Any mention that he actually left",
+     "The verse says he went forth."
+    ],
+    [
+     "Any mention of G-d's command",
+     "The verse says he went as G-d commanded."
+    ],
+    [
+     "Any companion traveling with him",
+     "Lot went with him."
+    ]
+   ],
+   "exp": "He doesn't ask why, where, or what he will get. Class called it obedience, which could be good or bad."
+  }
+ ],
+ "Suggests vs. proves": [
+  {
+   "q": "Which statement goes beyond what Genesis 12:4 can prove?",
+   "right": "Avraham felt no fear at all about leaving",
+   "wrong": [
+    [
+     "Avraham left as G-d had commanded him to go",
+     "The verse says exactly this."
+    ],
+    [
+     "Avraham did not ask questions in the verse",
+     "The verse records no questions."
+    ],
+    [
+     "Lot traveled with Avraham when he left Haran",
+     "Genesis 12:4 says Lot went with him."
+    ]
+   ],
+   "exp": "The text shows his action. His feelings are an inference."
+  }
+ ],
+ "Torah's silence on the choice": [
+  {
+   "q": "Based only on Genesis 12:1–4, what reason does the Torah give for choosing Avraham?",
+   "right": "None is stated",
+   "wrong": [
+    [
+     "He was the most righteous man in Ur",
+     "Genesis 12 says nothing about this."
+    ],
+    [
+     "He discovered G-d as a child in Ur",
+     "That idea comes from Rambam, not from Genesis 12."
+    ],
+    [
+     "He argued with G-d to save Sodom",
+     "That happens later, in Genesis 18."
+    ]
+   ],
+   "exp": "The midrash and Rambam fill a gap the Torah leaves open."
+  }
+ ],
+ "Bereishit Rabbah 39:1": [
+  {
+   "q": "In the palace parable, what does the owner looking out represent?",
+   "right": "G-d revealing Himself to Avraham",
+   "wrong": [
+    [
+     "Avraham revealing himself to G-d in the palace",
+     "Avraham is the traveler who asks the question."
+    ],
+    [
+     "The people of Ur rejecting their idols",
+     "The parable is about one man's search."
+    ],
+    [
+     "Pharaoh welcoming Yaakov's family to Egypt",
+     "That is from the Joseph story."
+    ]
+   ],
+   "exp": "Palace = the world; owner = G-d; traveler = Avraham."
+  }
+ ],
+ "Rambam on Avraham": [
+  {
+   "q": "According to Rambam, how did Avraham come to believe in one G-d?",
+   "right": "By questioning and reasoning on his own",
+   "wrong": [
+    [
+     "By being taught by his father's teachers",
+     "Rambam says he had no teacher."
+    ],
+    [
+     "By hearing G-d speak at Mount Sinai",
+     "Sinai came centuries later."
+    ],
+    [
+     "By copying the beliefs of the people of Ur",
+     "Ur's people were idolaters."
+    ]
+   ],
+   "exp": "Rambam: he wondered how the sphere could turn with no one controlling it."
+  }
+ ],
+ "Who took the first step?": [
+  {
+   "q": "Which pair of sources best supports the position that Avraham and G-d chose each other?",
+   "right": "Genesis 12 and the palace midrash",
+   "wrong": [
+    [
+     "Only Genesis 12, which shows Avraham searching first",
+     "Genesis 12 shows G-d speaking first, with no search."
+    ],
+    [
+     "Only Rambam, which says G-d called Avraham at birth",
+     "Rambam stresses Avraham's own search."
+    ],
+    [
+     "Exodus 1, which describes Pharaoh's fear of Israel",
+     "Exodus 1 is unrelated to Avraham's choice."
+    ]
+   ],
+   "exp": "Genesis 12: G-d calls. Midrash: Avraham searches and G-d answers."
+  }
+ ],
+ "Belief alone isn't enough": [
+  {
+   "q": "If belief in one G-d is not enough on its own, what new element begins in Genesis 12?",
+   "right": "A two-sided covenant",
+   "wrong": [
+    [
+     "A written law code for a nation",
+     "The law code comes at Sinai."
+    ],
+    [
+     "A king ruling over a nation",
+     "No king appears in Genesis 12."
+    ],
+    [
+     "A temple in Jerusalem for worship",
+     "There is no temple in Genesis."
+    ]
+   ],
+   "exp": "Genesis 12 adds mutual commitment to belief."
+  }
+ ],
+ "Why begin with Avraham": [
+  {
+   "q": "Which reason from your notes best explains why the course begins Jewish history with Avraham rather than Adam or Noah?",
+   "right": "The covenant begins with him",
+   "wrong": [
+    [
+     "He was the first human being created",
+     "Adam and Eve were the first humans."
+    ],
+    [
+     "He was the first person to leave a city",
+     "The notes do not make this claim."
+    ],
+    [
+     "He received the Ten Commandments at Sinai",
+     "That was the whole people, generations later."
+    ]
+   ],
+   "exp": "Your notes: 'Maybe Avraham is the first Jew as he had a brit milah — the brit milah is the covenant.'"
+  }
+ ],
+ "Leaving Haran": [
+  {
+   "q": "Class notes call Avraham a 'sheep' in Genesis 12. Which reading of that story is best supported?",
+   "right": "His obedience could be read as faith or as not thinking",
+   "wrong": [
+    [
+     "He refused to leave until G-d explained the reason to him",
+     "He left without asking."
+    ],
+    [
+     "He left only because Lot asked him to go",
+     "He left because G-d commanded him."
+    ],
+    [
+     "He argued that the trip was far too dangerous to make",
+     "He raised no objection."
+    ]
+   ],
+   "exp": "Class: obedience could be good or bad."
+  }
+ ],
+ "Avraham and Lot": [
+  {
+   "q": "What does Avraham's offer to Lot most clearly show?",
+   "right": "He valued peace over getting the best land",
+   "wrong": [
+    [
+     "He wanted the Jordan plain for himself",
+     "He let Lot take it."
+    ],
+    [
+     "He was afraid of fighting his nephew's herdsmen",
+     "The text stresses peace between relatives, not fear."
+    ],
+    [
+     "He punished Lot for the quarrel",
+     "He offered a peaceful separation."
+    ]
+   ],
+   "exp": "\"Let there be no quarrel… for we are relatives.\" He could have taken the better land."
+  }
+ ],
+ "Lot's choice": [
+  {
+   "q": "Which detail best supports the claim that Avraham gave up an advantage in Genesis 13?",
+   "right": "Lot took the well-watered plain",
+   "wrong": [
+    [
+     "Avraham went to Egypt instead",
+     "Genesis 13 doesn't send him to Egypt."
+    ],
+    [
+     "The herdsmen stopped quarreling",
+     "That does not show a lost advantage."
+    ],
+    [
+     "Avraham and Lot were both wealthy",
+     "Wealth was the cause of the problem."
+    ]
+   ],
+   "exp": "Letting Lot choose meant Avraham might get the worse land."
+  }
+ ],
+ "Avraham pleads for Sodom": [
+  {
+   "q": "How does Avraham's response in Genesis 18 differ from Genesis 12?",
+   "right": "He questions G-d instead of obeying silently",
+   "wrong": [
+    [
+     "He obeys silently, exactly as he did in Genesis 12",
+     "In Genesis 18 he argues."
+    ],
+    [
+     "He argues for his own family's safety",
+     "He argues for strangers in Sodom."
+    ],
+    [
+     "He refuses to speak to G-d at all",
+     "He speaks boldly to G-d."
+    ]
+   ],
+   "exp": "Genesis 12: 'OK, I will go.' Genesis 18: 'What if there are innocents?'"
+  }
+ ],
+ "\"Shall not the Judge of all the earth do justice?\"": [
+  {
+   "q": "What does this question assume about G-d?",
+   "right": "That G-d must act justly",
+   "wrong": [
+    [
+     "That G-d has no power over Sodom",
+     "Avraham assumes G-d can destroy Sodom."
+    ],
+    [
+     "That Sodom's people were all innocent",
+     "He asks about fifty righteous among the wicked."
+    ],
+    [
+     "That G-d had already forgiven Sodom",
+     "He is arguing before any decision."
+    ]
+   ],
+   "exp": "Avraham appeals to G-d's own justice."
+  }
+ ],
+ "Hagar": [
+  {
+   "q": "Which statement about Avraham in the Hagar story is best supported by the text?",
+   "right": "He avoided taking responsibility in the conflict",
+   "wrong": [
+    [
+     "He defended Hagar against Sarai's harsh treatment",
+     "He said, 'Your servant is in your hands.'"
+    ],
+    [
+     "He argued with G-d for Hagar's sake",
+     "There is no argument with G-d here."
+    ],
+    [
+     "He sent Hagar away himself to protect Sarai's honor",
+     "Sarai treated her harshly and she ran away."
+    ]
+   ],
+   "exp": "Unlike Sodom, he does not stand up for the vulnerable person here."
+  }
+ ],
+ "Akeidat Yitzchak": [
+  {
+   "q": "Which detail best shows Avraham's readiness to obey in the Akeida?",
+   "right": "He rose early the next morning",
+   "wrong": [
+    [
+     "He argued with G-d to save his son",
+     "He did not argue here, unlike Sodom."
+    ],
+    [
+     "He refused to bring the knife or wood",
+     "He took the firestone and knife."
+    ],
+    [
+     "He asked Sarai for permission to go",
+     "The text records no such request."
+    ]
+   ],
+   "exp": "\"So early the next morning, Avraham saddled his donkey.\""
+  }
+ ],
+ "\"Here I am\"": [
+  {
+   "q": "What does Avraham's answer 'Here I am' most suggest?",
+   "right": "Readiness to respond",
+   "wrong": [
+    [
+     "Doubt about who was calling him",
+     "The phrase shows readiness, not doubt."
+    ],
+    [
+     "A refusal to listen to G-d",
+     "He answers, so he listens."
+    ],
+    [
+     "A plan to argue for Sodom",
+     "Sodom is a different story."
+    ]
+   ],
+   "exp": "It signals availability before he even hears the command."
+  }
+ ],
+ "Sodom vs. Akeida tension": [
+  {
+   "q": "Which question best captures the tension between Genesis 18 and Genesis 22?",
+   "right": "Why argue for strangers but not for his son?",
+   "wrong": [
+    [
+     "Why did Lot choose the well-watered Jordan plain?",
+     "That is a different story."
+    ],
+    [
+     "Why did the herdsmen quarrel over grazing land?",
+     "That is Genesis 13."
+    ],
+    [
+     "Why did Pharaoh fear the Israelites in Exodus 1?",
+     "That is Exodus 1."
+    ]
+   ],
+   "exp": "This was a 'question I still have' in your Unit 1 reflection."
+  }
+ ],
+ "Chosen but not perfect": [
+  {
+   "q": "Which pair of stories best supports the claim that Avraham was not perfect yet still chosen?",
+   "right": "Sodom (courage) and Hagar (passivity)",
+   "wrong": [
+    [
+     "Leaving Haran and leaving Haran again",
+     "One story can't show both sides."
+    ],
+    [
+     "Lot and Sodom, which both show only flaws",
+     "Both show strengths: peacemaking and courage."
+    ],
+    [
+     "Exodus 1 and Exodus 14",
+     "Those are not Avraham stories."
+    ]
+   ],
+   "exp": "Strength in one story, weakness in another."
+  }
+ ],
+ "Chosenness as responsibility": [
+  {
+   "q": "Which statement best matches your study guide's idea of chosenness?",
+   "right": "Being chosen means taking on duties",
+   "wrong": [
+    [
+     "Being chosen means never making mistakes",
+     "The guide contrasts responsibility with perfection."
+    ],
+    [
+     "Being chosen means ruling over other peoples",
+     "Nothing in your sources says this."
+    ],
+    [
+     "Being chosen means G-d asks nothing in return",
+     "The covenant asks obligations of Avraham."
+    ]
+   ],
+   "exp": "Moshe is your example: chosen even though he made a mistake."
+  }
+ ],
+ "Moshe's mistake": [
+  {
+   "q": "Why is Moshe a useful example when asking whether someone can be chosen without being perfect?",
+   "right": "He led despite a costly mistake",
+   "wrong": [
+    [
+     "He never made a single mistake as leader",
+     "He did make a mistake."
+    ],
+    [
+     "He entered the land with the whole nation",
+     "His mistake kept him out of the land."
+    ],
+    [
+     "He was chosen only after he became perfect",
+     "He was chosen as a flawed person."
+    ]
+   ],
+   "exp": "It supports 'chosen means responsible, not perfect.'"
+  }
+ ],
+ "Abrahamic religions": [
+  {
+   "q": "According to your family-tree chart, how does Islam connect itself to Avraham?",
+   "right": "Through Yishmael, son of Hagar",
+   "wrong": [
+    [
+     "Through Yitzchak, son of Sarah",
+     "The Jewish people trace their line through Yitzchak and Yaakov."
+    ],
+    [
+     "Through Esau, the ancestor of Edom",
+     "Esau is Yitzchak's son, not the line Islam claims."
+    ],
+    [
+     "Through Lot, Avraham's nephew from Haran",
+     "Lot is not the line Islam claims."
+    ]
+   ],
+   "exp": "The chart notes Muhammad is not in the Hebrew Bible; the link comes from later Islamic tradition."
+  }
+ ],
+ "National revelation": [
+  {
+   "q": "Your notes contrast a revelation seen by a whole nation with one given to a single person. Which event is the first kind?",
+   "right": "Mount Sinai",
+   "wrong": [
+    [
+     "Avraham's call in Haran",
+     "That was to one person."
+    ],
+    [
+     "Joseph's dreams in Egypt",
+     "Those were personal dreams."
+    ],
+    [
+     "Rambam's account of Ur",
+     "That describes one person's discovery."
+    ]
+   ],
+   "exp": "Sinai was public, for all Israel."
+  }
+ ],
+ "Brit": [
+  {
+   "q": "Which situation is most like a brit?",
+   "right": "Two sides each promise and each give",
+   "wrong": [
+    [
+     "A ruler gives an order that only subjects obey",
+     "That is a one-sided command."
+    ],
+    [
+     "A person privately believes in one G-d",
+     "That is belief, not a two-sided agreement."
+    ],
+    [
+     "A merchant sells goods once and leaves",
+     "A brit is an ongoing relationship, not a one-time trade."
+    ]
+   ],
+   "exp": "Your answer: 'a push-pull relationship where both must give and take.'"
+  }
+ ],
+ "Covenant vs. command": [
+  {
+   "q": "What turns G-d's words in Genesis 12 from a command into a covenant?",
+   "right": "G-d also commits to promises",
+   "wrong": [
+    [
+     "Avraham writes the words down",
+     "Nothing is written in Genesis 12."
+    ],
+    [
+     "Avraham argues before agreeing",
+     "He doesn't argue in Genesis 12."
+    ],
+    [
+     "The people vote to accept it",
+     "That is closer to Sinai."
+    ]
+   ],
+   "exp": "Avraham must go; G-d binds Himself to promises."
+  }
+ ],
+ "Covenant vs. simple deal": [
+  {
+   "q": "Which feature best separates the covenant from a simple deal?",
+   "right": "It continues across generations",
+   "wrong": [
+    [
+     "Both sides receive something in return",
+     "Deals do that too."
+    ],
+    [
+     "It involves a promise of land",
+     "A deal could include land too."
+    ],
+    [
+     "It begins with a request to leave home",
+     "That does not make it different from a deal."
+    ]
+   ],
+   "exp": "It is built to extend to Avraham's descendants."
+  }
+ ],
+ "Avraham's obligation": [
+  {
+   "q": "Which is Avraham's side of the covenant in Genesis 12?",
+   "right": "Leaving home and trusting G-d",
+   "wrong": [
+    [
+     "Building a nation and a homeland himself",
+     "Becoming a nation is G-d's promise."
+    ],
+    [
+     "Making his own name great among nations",
+     "G-d promises to make his name great."
+    ],
+    [
+     "Blessing the families of the earth by law",
+     "That is part of G-d's promises."
+    ]
+   ],
+   "exp": "One costly, immediate action."
+  }
+ ],
+ "Great nation": [
+  {
+   "q": "A student claims this promise was fulfilled the moment Avraham arrived in Canaan. Which detail best challenges that claim?",
+   "right": "Jacob's family was still only 70 people",
+   "wrong": [
+    [
+     "Avraham left Haran when G-d commanded him",
+     "That does not address the size of his family."
+    ],
+    [
+     "Lot chose the well-watered Jordan plain",
+     "Lot's choice is not about nationhood."
+    ],
+    [
+     "Avraham argued for Sodom in Genesis 18",
+     "That is about justice, not numbers."
+    ]
+   ],
+   "exp": "Generations later, Jacob's household entering Egypt numbered 70."
+  }
+ ],
+ "Make your name great": [
+  {
+   "q": "Which evidence would best support the claim that this promise has been fulfilled?",
+   "right": "Three religions honor Avraham today",
+   "wrong": [
+    [
+     "Lot chose the better land in Genesis 13",
+     "That doesn't show fame."
+    ],
+    [
+     "Avraham left Haran without questions",
+     "That is his obligation, not the promise."
+    ],
+    [
+     "Hagar ran away from Sarai",
+     "That doesn't show fame."
+    ]
+   ],
+   "exp": "Avraham is known across Judaism, Christianity and Islam."
+  }
+ ],
+ "You shall be a blessing": [
+  {
+   "q": "How does 'you shall be a blessing' differ from 'I will bless you'?",
+   "right": "It points outward, toward others",
+   "wrong": [
+    [
+     "It is a command, not a promise",
+     "Both are promises in the verse."
+    ],
+    [
+     "It is only about wealth in Canaan",
+     "It is about Avraham's effect on others."
+    ],
+    [
+     "It is said to Lot, not Avraham",
+     "It is said to Avraham."
+    ]
+   ],
+   "exp": "One blessing is received; the other is given to others."
+  }
+ ],
+ "All the families of the earth": [
+  {
+   "q": "Why does your reflection say the covenant is not just between Avraham and G-d?",
+   "right": "It reaches all families and later generations",
+   "wrong": [
+    [
+     "It was made with Pharaoh as a partner",
+     "Pharaoh is not part of it."
+    ],
+    [
+     "It was cancelled after the Akeida",
+     "It continues."
+    ],
+    [
+     "It applied only to Lot's family and his herdsmen in the plain",
+     "Lot is not its focus."
+    ]
+   ],
+   "exp": "The covenant is built to extend beyond one man."
+  }
+ ],
+ "Bless those who bless you": [
+  {
+   "q": "Which of G-d's promises in Genesis 12 is about how other peoples treat Avraham?",
+   "right": "Blessing those who bless him",
+   "wrong": [
+    [
+     "Making him a great nation",
+     "That is about his own descendants."
+    ],
+    [
+     "Making his name great",
+     "That is about his own fame."
+    ],
+    [
+     "Showing him a new land to live in",
+     "That is about his destination."
+    ]
+   ],
+   "exp": "This promise concerns outsiders' behavior toward Avraham."
+  }
+ ],
+ "Uneven trade": [
+  {
+   "q": "What makes the Genesis 12 exchange look uneven on paper?",
+   "right": "One act now, many promises later",
+   "wrong": [
+    [
+     "G-d asks for much more than He promises",
+     "G-d promises more than one thing."
+    ],
+    [
+     "Avraham receives everything before leaving",
+     "The promises come true over generations."
+    ],
+    [
+     "Neither side commits to anything",
+     "Both sides commit."
+    ]
+   ],
+   "exp": "That is why the covenant requires trust."
+  }
+ ],
+ "Brit milah": [
+  {
+   "q": "Why might brit milah matter more than belief alone in making Avraham 'the first Jew'?",
+   "right": "It marks a lasting covenant",
+   "wrong": [
+    [
+     "It was required of everyone in Ur",
+     "Ur's people were idolaters."
+    ],
+    [
+     "It replaced the promise of land",
+     "Land remained part of the covenant."
+    ],
+    [
+     "It happened at Mount Sinai",
+     "Avraham lived long before Sinai."
+    ]
+   ],
+   "exp": "Your notes: 'brit milah / bris is the covenant.'"
+  }
+ ],
+ "Covenant of the pieces": [
+  {
+   "q": "According to your notes, what did G-d tell Avraham would happen before his descendants received the land?",
+   "right": "They would be slaves in a foreign land",
+   "wrong": [
+    [
+     "They would conquer Egypt by force",
+     "They would be enslaved, not conquer."
+    ],
+    [
+     "They would rule Mesopotamia from Ur",
+     "That is not the promise."
+    ],
+    [
+     "They would receive the land immediately",
+     "There would be a long wait first."
+    ]
+   ],
+   "exp": "Your answer links this to the years in Egypt."
+  }
+ ],
+ "Genesis 15:16": [
+  {
+   "q": "Which explanation of the long wait is stated in Genesis 15:16?",
+   "right": "The Amorites' wrongdoing was not yet complete",
+   "wrong": [
+    [
+     "The Israelites had not yet learned to farm the land",
+     "The verse doesn't say this."
+    ],
+    [
+     "Pharaoh refused to let Joseph's family go",
+     "The verse doesn't mention Pharaoh."
+    ],
+    [
+     "Avraham had disobeyed G-d in Haran by asking questions",
+     "Avraham obeyed."
+    ]
+   ],
+   "exp": "This is what the Torah says; a historian might infer other reasons."
+  }
+ ],
+ "Righteousness and justice": [
+  {
+   "q": "Why does passing righteousness and justice to future generations matter for the covenant?",
+   "right": "The covenant depends on later generations keeping it",
+   "wrong": [
+    [
+     "It lets each generation ignore the covenant",
+     "The covenant asks each generation to carry it."
+    ],
+    [
+     "It ended the covenant after Avraham died",
+     "It continues."
+    ],
+    [
+     "It means only Avraham himself was responsible for keeping the covenant",
+     "The responsibility passes down."
+    ]
+   ],
+   "exp": "Your notes: responsibility for Avraham's descendants — 10 commandments, 613 mitzvot, passing down beliefs."
+  }
+ ],
+ "Covenant at Sinai": [
+  {
+   "q": "What is one major change from the covenant with Avraham to the covenant at Sinai?",
+   "right": "A whole people accepts it together",
+   "wrong": [
+    [
+     "It no longer involves any promises",
+     "Sinai includes promises such as 'treasured possession.'"
+    ],
+    [
+     "It is made with Pharaoh instead of Israel",
+     "It is made with Israel."
+    ],
+    [
+     "It drops all of the conditions and duties",
+     "Sinai adds conditions."
+    ]
+   ],
+   "exp": "Avraham: an individual. Sinai: a nation, with laws."
+  }
+ ],
+ "Kingdom of priests and a holy nation": [
+  {
+   "q": "What does 'a kingdom of priests and a holy nation' suggest about the Israelites' status at Sinai?",
+   "right": "They are a nation before entering the land",
+   "wrong": [
+    [
+     "They have become slaves again in Egypt",
+     "They had already left Egypt."
+    ],
+    [
+     "They will only become a family much later",
+     "They are called a nation."
+    ],
+    [
+     "They have already conquered Canaan by the time it is said",
+     "They are still in the wilderness."
+    ]
+   ],
+   "exp": "Your answer used this as evidence they were a nation before the land."
+  }
+ ],
+ "Naaseh v'Nishmah": [
+  {
+   "q": "Why was saying 'we will do' first significant?",
+   "right": "It showed commitment to act on the laws",
+   "wrong": [
+    [
+     "It showed the laws were forced on them",
+     "They chose it together."
+    ],
+    [
+     "It meant only the leaders agreed to it",
+     "They answered with one voice."
+    ],
+    [
+     "It showed they rejected the covenant offered at Sinai",
+     "They accepted it."
+    ]
+   ],
+   "exp": "A shared choice to act, made as one people."
+  }
+ ],
+ "Deuteronomy 27:9–10": [
+  {
+   "q": "Why does Moshe renew the covenant with the next generation?",
+   "right": "Each generation must accept it for itself",
+   "wrong": [
+    [
+     "The first covenant had been cancelled",
+     "It was renewed, not cancelled."
+    ],
+    [
+     "He wanted to replace the Torah's laws",
+     "He tells them to obey the commandments."
+    ],
+    [
+     "They had already entered the land and needed new rules",
+     "They were about to enter."
+    ]
+   ],
+   "exp": "Nationhood and covenant must be renewed, not simply inherited."
+  }
+ ],
+ "Guilt vs. responsibility": [
+  {
+   "q": "Ten people hear an antisemitic joke and no one responds. What does the Yom Kippur lesson say about the listeners?",
+   "right": "They share responsibility to respond",
+   "wrong": [
+    [
+     "They are guilty of telling the joke",
+     "They didn't tell it, so it isn't guilt."
+    ],
+    [
+     "They have no role since it wasn't theirs",
+     "Belonging asks something of them."
+    ],
+    [
+     "Only the teacher can ever respond",
+     "Anyone can step up."
+    ]
+   ],
+   "exp": "Covenant = I belong; responsibility = my belonging asks something of me."
+  }
+ ],
+ "Teshuvah": [
+  {
+   "q": "How does teshuvah connect to the idea that chosenness is not perfection?",
+   "right": "It expects mistakes and asks for repair",
+   "wrong": [
+    [
+     "It means a chosen person never errs",
+     "It assumes people fall short."
+    ],
+    [
+     "It replaces the covenant with feelings of guilt",
+     "It moves from guilt to action."
+    ],
+    [
+     "It applies only to the people of Ur",
+     "It is a Yom Kippur idea for everyone."
+    ]
+   ],
+   "exp": "Falling short is expected; returning and repairing is the duty."
+  }
+ ],
+ "Ways to step up": [
+  {
+   "q": "You see a classmate bullied and you can't stop it in the moment. Which option from the lesson is still a way to step up?",
+   "right": "Bring in someone better positioned to help",
+   "wrong": [
+    [
+     "Do nothing, since noticing is enough",
+     "The lesson says noticing isn't the same as acting."
+    ],
+    [
+     "Join in so the bully stops targeting you instead",
+     "That adds to the harm."
+    ],
+    [
+     "Wait until it becomes your own problem",
+     "Belonging makes it yours to care about."
+    ]
+   ],
+   "exp": "'Involve' is one of the five ways."
+  }
+ ],
+ "Terah": [
+  {
+   "q": "Who heads the family-tree chart 'From Terah to the 12 Tribes'?",
+   "right": "Avraham's father",
+   "wrong": [
+    [
+     "Avraham's son by Sarah",
+     "That is Yitzchak."
+    ],
+    [
+     "Avraham's nephew who went with him",
+     "That is Lot."
+    ],
+    [
+     "Yaakov's eldest son by Leah",
+     "That is Reuben."
+    ]
+   ],
+   "exp": "Terah → Abraham, Nahor and Haran."
+  }
+ ],
+ "Lot": [
+  {
+   "q": "Why does Avraham say 'we are relatives' to Lot in Genesis 13?",
+   "right": "Lot is his brother's son",
+   "wrong": [
+    [
+     "Lot is his son by Hagar",
+     "That is Yishmael."
+    ],
+    [
+     "Lot is Sarah's younger brother",
+     "The chart shows Lot as Haran's son."
+    ],
+    [
+     "Lot is one of Yaakov's sons",
+     "Lot lived generations earlier."
+    ]
+   ],
+   "exp": "Lot is the son of Avraham's brother Haran."
+  }
+ ],
+ "Yishmael": [
+  {
+   "q": "Which son of Avraham does the chart connect to later Islamic tradition?",
+   "right": "Yishmael",
+   "wrong": [
+    [
+     "Yitzchak, son of Sarah",
+     "The Jewish line goes through Yitzchak."
+    ],
+    [
+     "Yaakov, son of Rivka",
+     "Yaakov is Avraham's grandson."
+    ],
+    [
+     "Esau, son of Yitzchak",
+     "Esau is the ancestor of Edom."
+    ]
+   ],
+   "exp": "Islam traces Muhammad through Yishmael."
+  }
+ ],
+ "Yitzchak": [
+  {
+   "q": "Through which son of Avraham do the Jewish people trace their line?",
+   "right": "Yitzchak",
+   "wrong": [
+    [
+     "Yishmael, son of Hagar",
+     "Islam traces its line through Yishmael."
+    ],
+    [
+     "Lot, son of Haran",
+     "Lot is a nephew."
+    ],
+    [
+     "Nahor, son of Terah",
+     "Nahor is Avraham's brother."
+    ]
+   ],
+   "exp": "Jewish lineage: Avraham → Yitzchak → Yaakov."
+  }
+ ],
+ "Esau": [
+  {
+   "q": "Which son of Yitzchak is NOT the ancestor of the 12 tribes?",
+   "right": "Esau",
+   "wrong": [
+    [
+     "Yaakov, also called Israel",
+     "Yaakov is the father of the 12 tribes."
+    ],
+    [
+     "Yaakov's son Joseph",
+     "Joseph is a grandson, not Yitzchak's son."
+    ],
+    [
+     "Yaakov's son Levi",
+     "Levi is a grandson, not Yitzchak's son."
+    ]
+   ],
+   "exp": "Esau's line is Edom."
+  }
+ ],
+ "Yaakov": [
+  {
+   "q": "Why are his descendants called 'the Israelites'?",
+   "right": "Yaakov was also named Israel",
+   "wrong": [
+    [
+     "Avraham was renamed Israel at Sinai",
+     "The name Israel belongs to Yaakov."
+    ],
+    [
+     "Joseph named his sons Israel",
+     "His sons were Manasseh and Ephraim."
+    ],
+    [
+     "Pharaoh gave them the name in Egypt",
+     "The name comes from Yaakov."
+    ]
+   ],
+   "exp": "Children of Israel = children of Yaakov."
+  }
+ ],
+ "Leah": [
+  {
+   "q": "Your notes say Yaakov loved Rachel but was tricked. Who did he marry first?",
+   "right": "Leah, Rachel's older sister",
+   "wrong": [
+    [
+     "Bilhah, Rachel's servant",
+     "Bilhah was Rachel's servant."
+    ],
+    [
+     "Zilpah, Leah's servant",
+     "Zilpah was Leah's servant."
+    ],
+    [
+     "Rivka, Yitzchak's wife and Yaakov's mother",
+     "Rivka was Yaakov's mother."
+    ]
+   ],
+   "exp": "Leah was Yaakov's first wife."
+  }
+ ],
+ "Rachel": [
+  {
+   "q": "Which two sons were born to Yaakov's beloved wife?",
+   "right": "Joseph and Benjamin",
+   "wrong": [
+    [
+     "Reuben and Simeon",
+     "They were Leah's sons."
+    ],
+    [
+     "Gad and Asher",
+     "They were Zilpah's sons."
+    ],
+    [
+     "Dan and Naphtali, born to her servant",
+     "They were Bilhah's sons."
+    ]
+   ],
+   "exp": "Rachel: Joseph and Benjamin."
+  }
+ ],
+ "Bilhah": [
+  {
+   "q": "Dan and Naphtali were born to which woman?",
+   "right": "Bilhah, Rachel's servant",
+   "wrong": [
+    [
+     "Zilpah, Leah's servant",
+     "Zilpah bore Gad and Asher."
+    ],
+    [
+     "Leah, Yaakov's first wife",
+     "Leah bore six sons, not these two."
+    ],
+    [
+     "Hagar, Sarah's servant",
+     "Hagar bore Yishmael to Avraham."
+    ]
+   ],
+   "exp": "Bilhah: Dan and Naphtali."
+  }
+ ],
+ "Zilpah": [
+  {
+   "q": "Gad and Asher were born to which woman?",
+   "right": "Zilpah, Leah's servant",
+   "wrong": [
+    [
+     "Bilhah, Rachel's servant",
+     "Bilhah bore Dan and Naphtali."
+    ],
+    [
+     "Rachel, Yaakov's beloved wife",
+     "Rachel bore Joseph and Benjamin."
+    ],
+    [
+     "Sarah, Avraham's wife",
+     "Sarah bore Yitzchak."
+    ]
+   ],
+   "exp": "Zilpah: Gad and Asher."
+  }
+ ],
+ "The 12 sons": [
+  {
+   "q": "Which name on the chart is NOT one of Yaakov's 12 sons?",
+   "right": "Dinah",
+   "wrong": [
+    [
+     "Levi",
+     "Levi is one of Leah's sons."
+    ],
+    [
+     "Asher",
+     "Asher is one of Zilpah's sons."
+    ],
+    [
+     "Benjamin",
+     "Benjamin is one of Rachel's sons."
+    ]
+   ],
+   "exp": "Dinah is Yaakov's daughter; the 12 tribes come from his sons."
+  }
+ ],
+ "Manasseh and Ephraim": [
+  {
+   "q": "Genesis 46 counts 70 people in Yaakov's household, including two born in Egypt. Who were they?",
+   "right": "Joseph's sons",
+   "wrong": [
+    [
+     "Reuben and Simeon",
+     "They came down from Canaan."
+    ],
+    [
+     "Lot's daughters",
+     "They are not part of Yaakov's household."
+    ],
+    [
+     "Moshe and Aaron",
+     "They were born generations later."
+    ]
+   ],
+   "exp": "\"Joseph's sons who were born to him in Egypt were two in number.\""
+  }
+ ],
+ "Family": [
+  {
+   "q": "At what stage does Genesis 46 describe Yaakov's household entering Egypt?",
+   "right": "A family of 70 persons",
+   "wrong": [
+    [
+     "A nation with its own land and laws",
+     "It had no land or government of its own."
+    ],
+    [
+     "A people feared by Pharaoh",
+     "That comes later, in Exodus 1."
+    ],
+    [
+     "A kingdom of priests at Sinai",
+     "That comes after the Exodus."
+    ]
+   ],
+   "exp": "\"All the persons belonging to Jacob… 70 persons.\""
+  }
+ ],
+ "People": [
+  {
+   "q": "Which evidence best shows the Israelites had become a people by Exodus 1?",
+   "right": "Pharaoh calls them 'the Israelite people'",
+   "wrong": [
+    [
+     "Genesis counts them as 70 persons",
+     "That is when they were still a family."
+    ],
+    [
+     "They received laws at Mount Sinai",
+     "Sinai helps make them a nation, later."
+    ],
+    [
+     "They crossed the Jordan River into the land of Canaan",
+     "That is much later."
+    ]
+   ],
+   "exp": "Outsiders now see a distinct group, not just Yaakov's family."
+  }
+ ],
+ "Nation": [
+  {
+   "q": "By Exodus 1, what were the Israelites still missing to be a nation?",
+   "right": "Their own land and government",
+   "wrong": [
+    [
+     "A shared history and religion",
+     "Those made them a people already."
+    ],
+    [
+     "A large enough population",
+     "They had grown very large."
+    ],
+    [
+     "A name used by outsiders such as Pharaoh",
+     "Pharaoh already called them a people."
+    ]
+   ],
+   "exp": "Your answer: a people, but not yet a nation."
+  }
+ ],
+ "70 persons": [
+  {
+   "q": "Why does the number 70 matter when comparing Genesis 46 and Exodus 1?",
+   "right": "It shows how small they began",
+   "wrong": [
+    [
+     "It shows Egypt had only 70 people",
+     "It counts Yaakov's household."
+    ],
+    [
+     "It counts the years of slavery",
+     "It counts people, not years."
+    ],
+    [
+     "It counts the laws given at Sinai",
+     "It is a household count."
+    ]
+   ],
+   "exp": "From 70 people to a population that 'filled the land.'"
+  }
+ ],
+ "Fertile and prolific": [
+  {
+   "q": "Which phrase from Exodus 1:7 best shows growth?",
+   "right": "\"the land was filled with them\"",
+   "wrong": [
+    [
+     "\"a new king arose over Egypt\"",
+     "That is about Pharaoh, not growth."
+    ],
+    [
+     "\"Joseph died, and all his brothers\"",
+     "That is about a death, not growth."
+    ],
+    [
+     "\"his own issue aside from the wives\"",
+     "That is from Genesis 46's count."
+    ]
+   ],
+   "exp": "Growth turned a family into a large, distinct group."
+  }
+ ],
+ "Joseph rations the grain": [
+  {
+   "q": "Why was Egypt a place of salvation during the famine?",
+   "right": "Joseph had stored and rationed grain",
+   "wrong": [
+    [
+     "Egypt had no famine that year",
+     "The famine reached Egypt too."
+    ],
+    [
+     "Pharaoh refused to sell any grain at all",
+     "Pharaoh sent people to Joseph."
+    ],
+    [
+     "Canaan had more food than Egypt did",
+     "Yaakov's family came to Egypt for food."
+    ]
+   ],
+   "exp": "Egypt had bread because of Joseph's planning."
+  }
+ ],
+ "\"G-d sent me ahead of you\"": [
+  {
+   "q": "How does Joseph interpret his brothers selling him into slavery?",
+   "right": "As part of G-d's plan to save lives",
+   "wrong": [
+    [
+     "As proof his brothers were righteous",
+     "He says they meant harm."
+    ],
+    [
+     "As a reason to punish them severely",
+     "He tells them not to be distressed."
+    ],
+    [
+     "As a sign to return to Canaan at once",
+     "He brings the family to Egypt."
+    ]
+   ],
+   "exp": "\"You intended me harm, G-d intended it for good.\""
+  }
+ ],
+ "Goshen": [
+  {
+   "q": "Which detail from Genesis 47:27 best explains why the family might not want to leave Egypt?",
+   "right": "They acquired holdings and increased",
+   "wrong": [
+    [
+     "They were slaves in Goshen right away",
+     "Slavery came later, under a new king."
+    ],
+    [
+     "Goshen was in Canaan, not Egypt",
+     "Goshen was in Egypt."
+    ],
+    [
+     "They were forbidden to own anything",
+     "They acquired holdings."
+    ]
+   ],
+   "exp": "Prosperity made leaving hard."
+  }
+ ],
+ "Why they stayed": [
+  {
+   "q": "Which pair gives one practical and one covenant reason the family stayed in Egypt?",
+   "right": "Fertile land; waiting for G-d's notice",
+   "wrong": [
+    [
+     "Fear of Pharaoh; love of the pyramids",
+     "Neither is in your sources."
+    ],
+    [
+     "Slavery; the Ten Commandments",
+     "Slavery came later; the commandments came at Sinai."
+    ],
+    [
+     "Avraham's order; Lot's choice of the Jordan plain",
+     "Neither explains staying in Egypt."
+    ]
+   ],
+   "exp": "Your answer: fertile land, Joseph's power; and 'pakod yifkod.'"
+  }
+ ],
+ "Pakod yifkod": [
+  {
+   "q": "How might pakod yifkod have encouraged later generations to stay in Egypt?",
+   "right": "They waited for G-d to bring them out",
+   "wrong": [
+    [
+     "It ordered them to leave immediately",
+     "It promised G-d would act in the future."
+    ],
+    [
+     "It said Egypt was the promised land",
+     "The promised land was Canaan."
+    ],
+    [
+     "It told them to fight Pharaoh's army for their freedom",
+     "It is about waiting for G-d."
+    ]
+   ],
+   "exp": "Leaving might have been seen as G-d's timing, not theirs."
+  }
+ ],
+ "Joseph's bones": [
+  {
+   "q": "What does Joseph's request about his bones show he expected?",
+   "right": "A future return to Canaan",
+   "wrong": [
+    [
+     "That Egypt would be home forever",
+     "He wanted his bones moved out."
+    ],
+    [
+     "That he would be buried in Goshen",
+     "He asked to be carried up from Egypt."
+    ],
+    [
+     "That his brothers would stay as slaves",
+     "He expected G-d to bring them out."
+    ]
+   ],
+   "exp": "He expected G-d to bring them back to the land promised to Avraham, Yitzchak and Yaakov."
+  }
+ ],
+ "Yaakov's burial request": [
+  {
+   "q": "What do Yaakov's and Joseph's burial requests have in common?",
+   "right": "Both point to Canaan as home",
+   "wrong": [
+    [
+     "Both ask to be buried in Goshen",
+     "Both look to Canaan."
+    ],
+    [
+     "Both reject the covenant with Avraham",
+     "Both rely on it."
+    ],
+    [
+     "Both are made after leaving Egypt",
+     "Both are made in Egypt."
+    ]
+   ],
+   "exp": "Even while prospering in Egypt, they saw Canaan as the promised home."
+  }
+ ],
+ "400 years": [
+  {
+   "q": "A historian says famine and prosperity explain the long stay in Egypt. What kind of statement is this compared with Genesis 15:16?",
+   "right": "An inference, not what the Torah says",
+   "wrong": [
+    [
+     "A direct quote from the Torah",
+     "It is the historian's interpretation."
+    ],
+    [
+     "Something we can observe today in Egypt",
+     "It is inferred from evidence."
+    ],
+    [
+     "A rejection of all the evidence",
+     "It uses evidence to infer."
+    ]
+   ],
+   "exp": "Torah says / we can observe / historians may infer."
+  }
+ ],
+ "A new king who did not know Joseph": [
+  {
+   "q": "Why does it matter that the new king 'did not know Joseph'?",
+   "right": "The family's protection was gone",
+   "wrong": [
+    [
+     "He had never heard of Egypt",
+     "He ruled Egypt."
+    ],
+    [
+     "He wanted to make Joseph's family rulers",
+     "He saw them as a threat."
+    ],
+    [
+     "He was Joseph's own son",
+     "He did not know Joseph."
+    ]
+   ],
+   "exp": "Joseph's power had protected them; now that link was broken."
+  }
+ ],
+ "Pharaoh's fear": [
+  {
+   "q": "What cause does Pharaoh give for treating the Israelites harshly?",
+   "right": "Their growth might make them a threat in war",
+   "wrong": [
+    [
+     "They refused to work the land",
+     "He says nothing about work."
+    ],
+    [
+     "They worshipped Egypt's gods instead",
+     "Religion is not his stated reason."
+    ],
+    [
+     "They had stolen grain from Egypt's storehouses during the famine",
+     "Grain is not his stated reason."
+    ]
+   ],
+   "exp": "Population growth plus fear of disloyalty."
+  }
+ ],
+ "Leaving Egypt": [
+  {
+   "q": "Why might leaving Egypt come first on any list of nation-building events?",
+   "right": "Slaves can't govern themselves",
+   "wrong": [
+    [
+     "It gave them their homeland",
+     "That came with entering the land."
+    ],
+    [
+     "It gave them the Ten Commandments",
+     "That came at Sinai."
+    ],
+    [
+     "It ended the covenant with Avraham",
+     "It fulfilled part of it."
+    ]
+   ],
+   "exp": "Your answer: freedom had to come first."
+  }
+ ],
+ "Crossing the sea": [
+  {
+   "q": "Which effect of crossing the sea did your answer stress?",
+   "right": "It ended any return to Egypt",
+   "wrong": [
+    [
+     "It gave them shared laws",
+     "Laws came at Sinai."
+    ],
+    [
+     "It gave them a homeland",
+     "The land came later."
+    ],
+    [
+     "It gave them manna to eat every day",
+     "Manna came in Exodus 16."
+    ]
+   ],
+   "exp": "It also united them in belief in G-d and Moshe."
+  }
+ ],
+ "Manna": [
+  {
+   "q": "Why did your answer rank manna as contributing least to nationhood?",
+   "right": "It helped them survive but added no new national feature",
+   "wrong": [
+    [
+     "It caused the people to leave Egypt",
+     "It came after they left."
+    ],
+    [
+     "It gave them their laws and covenant",
+     "That was Sinai."
+    ],
+    [
+     "It made them slaves again under a new and harsher Pharaoh",
+     "It sustained them."
+    ]
+   ],
+   "exp": "An event can matter even if it ranks last."
+  }
+ ],
+ "Ten Commandments": [
+  {
+   "q": "Which characteristic of a nation did the Ten Commandments add?",
+   "right": "Shared laws",
+   "wrong": [
+    [
+     "A homeland",
+     "That came with entering the land."
+    ],
+    [
+     "Freedom from slavery",
+     "That came with leaving Egypt."
+    ],
+    [
+     "A central place of worship",
+     "That was the Mishkan."
+    ]
+   ],
+   "exp": "Laws hold a nation together."
+  }
+ ],
+ "Mishkan": [
+  {
+   "q": "What did building the Mishkan add to the Israelites' nationhood?",
+   "right": "A central place of worship they built together",
+   "wrong": [
+    [
+     "A permanent capital city in Canaan",
+     "The Mishkan was carried through the wilderness."
+    ],
+    [
+     "Their first written laws",
+     "Those were given at Sinai."
+    ],
+    [
+     "Their escape from Pharaoh's army at the sea of Reeds",
+     "That was at the sea."
+    ]
+   ],
+   "exp": "A shared project and shared worship."
+  }
+ ],
+ "Entering the land": [
+  {
+   "q": "Your answer says the land 'completed their nationhood but did not create it.' Which evidence supports that?",
+   "right": "They were called a nation at Sinai",
+   "wrong": [
+    [
+     "They had no laws before entering",
+     "They received laws at Sinai."
+    ],
+    [
+     "Pharaoh called them a people",
+     "That supports 'people,' not the timing of nationhood."
+    ],
+    [
+     "They crossed the Jordan on dry ground",
+     "That describes entering, not prior nationhood."
+    ]
+   ],
+   "exp": "'A kingdom of priests and a holy nation' was said in the wilderness."
+  }
+ ],
+ "Nationhood as a process": [
+  {
+   "q": "Which statement is the best-supported conclusion about when the Israelites became a nation?",
+   "right": "Gradually, through several events",
+   "wrong": [
+    [
+     "Only when they entered Canaan",
+     "Sinai already called them a nation."
+    ],
+    [
+     "Only when they left Egypt",
+     "Freedom alone gave no laws or land."
+    ],
+    [
+     "Only when Joseph became powerful in Egypt",
+     "They were still a family then."
+    ]
+   ],
+   "exp": "Each event added something new."
+  }
+ ],
+ "Antisemitism": [
+  {
+   "q": "Which example best fits hostility toward Jews as Jews?",
+   "right": "Blaming all Jews for a government's actions",
+   "wrong": [
+    [
+     "Criticizing one Israeli policy with evidence",
+     "Criticizing a policy is not hostility toward Jews as Jews."
+    ],
+    [
+     "Voting for a party in the Knesset",
+     "That is ordinary politics."
+    ],
+    [
+     "Disagreeing with a coalition decision",
+     "That criticizes a government decision."
+    ]
+   ],
+   "exp": "The key is targeting Jews for being Jews."
+  }
+ ],
+ "Criticism vs. hostility": [
+  {
+   "q": "A protester says, 'I oppose this Israeli policy.' Another says, 'Jews everywhere are to blame.' What separates them?",
+   "right": "The second targets Jews as a group",
+   "wrong": [
+    [
+     "The first is automatically antisemitic",
+     "Criticizing a policy is not automatically antisemitic."
+    ],
+    [
+     "Both are equally just political criticism",
+     "The second blames Jews as Jews."
+    ],
+    [
+     "Neither statement could be antisemitic",
+     "The second targets Jews as a group."
+    ]
+   ],
+   "exp": "Your note: supporting Palestinians doesn't by itself mean hostility to Jews."
+  }
+ ],
+ "Racial antisemitism": [
+  {
+   "q": "What made the Nazi view of Jews different from objecting to a religion?",
+   "right": "It claimed Jewishness could never change",
+   "wrong": [
+    [
+     "It said Jews could convert to escape it",
+     "It claimed it could not be changed."
+    ],
+    [
+     "It only criticized a government policy",
+     "It targeted Jews as a so-called race."
+    ],
+    [
+     "It praised Jews as a superior people of the world",
+     "It called them inferior and dangerous."
+    ]
+   ],
+   "exp": "Racial antisemitism makes Jewishness a permanent label."
+  }
+ ],
+ "Overgeneralization": [
+  {
+   "q": "Which statement is an overgeneralization from your true/false review?",
+   "right": "Everyone at a pro-Palestinian protest supports Hamas",
+   "wrong": [
+    [
+     "Some extremists can pose a serious risk to a community",
+     "That is limited and was marked true."
+    ],
+    [
+     "Not all Palestinians are Muslim",
+     "That corrects a generalization."
+    ],
+    [
+     "Not all Muslims are Arab, according to your class review",
+     "That corrects a generalization."
+    ]
+   ],
+   "exp": "Watch for 'all,' 'everyone' and 'never.'"
+  }
+ ],
+ "Most Muslims are not Arab": [
+  {
+   "q": "Which statement from your review was marked FALSE?",
+   "right": "Most Muslims are Arab",
+   "wrong": [
+    [
+     "Both the Torah and Quran contain passages about war",
+     "That was marked true."
+    ],
+    [
+     "A tiny share of extremists can still be dangerous",
+     "That was marked true."
+    ],
+    [
+     "Not every protester supports Hamas",
+     "That is the corrected version, which is true."
+    ]
+   ],
+   "exp": "Arab is an ethnic and language group; Muslim is a religion."
+  }
+ ],
+ "Not all Palestinians are Muslim": [
+  {
+   "q": "Why is 'All Palestinians are Muslim' a weak claim?",
+   "right": "It turns a group into one religion",
+   "wrong": [
+    [
+     "It is a fact recorded in the Torah",
+     "The Torah says nothing of this."
+    ],
+    [
+     "It describes a government policy",
+     "It describes people, not policy."
+    ],
+    [
+     "It is supported by your review sheet",
+     "Your review marked it false."
+    ]
+   ],
+   "exp": "The word 'all' makes it an overgeneralization."
+  }
+ ],
+ "Small groups, serious risk": [
+  {
+   "q": "Which conclusion is best supported by the 0.1% statement?",
+   "right": "A small group can still be dangerous",
+   "wrong": [
+    [
+     "Most people in that population are extremists",
+     "0.1% is a tiny share."
+    ],
+    [
+     "Small groups can never cause real harm",
+     "The review marked the opposite."
+    ],
+    [
+     "The whole population must be blamed",
+     "That is an overgeneralization."
+    ]
+   ],
+   "exp": "Size of a group and size of its danger are different questions."
+  }
+ ],
+ "Violence in scripture": [
+  {
+   "q": "A classmate says only one religion's scripture mentions war. What is the best response based on your review?",
+   "right": "Both the Torah and Quran contain such passages",
+   "wrong": [
+    [
+     "Neither text ever mentions any war",
+     "The review marked that both do."
+    ],
+    [
+     "Only the Quran discusses fighting",
+     "The review says both do."
+    ],
+    [
+     "Only the Torah discusses fighting and war of any kind",
+     "The review says both do."
+    ]
+   ],
+   "exp": "Compare sources fairly before drawing conclusions."
+  }
+ ],
+ "Checking a claim": [
+  {
+   "q": "A post says, 'The deadliest attacks on U.S. synagogues were all by Islamic extremists.' Your review marked this false. What should you check first?",
+   "right": "Who actually carried out each attack",
+   "wrong": [
+    [
+     "Whether the post has many likes",
+     "Popularity isn't evidence."
+    ],
+    [
+     "Whether it matches your opinion",
+     "Agreement isn't evidence."
+    ],
+    [
+     "Whether it uses the word 'synagogue' in the headline",
+     "Wording isn't evidence."
+    ]
+   ],
+   "exp": "Check the evidence behind each claim."
+  }
+ ],
+ "Ottoman rule": [
+  {
+   "q": "Who controlled the land before World War I?",
+   "right": "The Ottoman Empire",
+   "wrong": [
+    [
+     "Britain and France",
+     "They became involved after World War I."
+    ],
+    [
+     "The League of Nations",
+     "It came after World War I."
+    ],
+    [
+     "An independent Israel",
+     "Israel did not exist yet."
+    ]
+   ],
+   "exp": "1517–1917, per your notes."
+  }
+ ],
+ "Mandate system": [
+  {
+   "q": "What was the stated purpose of the mandate system?",
+   "right": "To help a people become able to self-govern",
+   "wrong": [
+    [
+     "To make the land part of Britain forever",
+     "It was meant to prepare self-rule."
+    ],
+    [
+     "To return the land to the Ottomans",
+     "The Ottomans had fallen."
+    ],
+    [
+     "To divide Europe among the winners after the war ended",
+     "It concerned former Ottoman lands."
+    ]
+   ],
+   "exp": "Your notes: 'we are going to help them set up.'"
+  }
+ ],
+ "Partition": [
+  {
+   "q": "According to your notes, how did each side respond to the split?",
+   "right": "Jews accepted it; Arabs rejected it",
+   "wrong": [
+    [
+     "Both sides accepted the split gladly",
+     "Your notes say Arabs rejected it."
+    ],
+    [
+     "Both sides rejected the split",
+     "Your notes say Jews accepted it."
+    ],
+    [
+     "Jews rejected it; Arabs accepted it",
+     "Your notes say the reverse."
+    ]
+   ],
+   "exp": "Your notes call it 'a very bad deal for Jews but they accepted.'"
+  }
+ ],
+ "Knesset": [
+  {
+   "q": "How many seats does a party need to govern alone in the Knesset?",
+   "right": "61 of 120",
+   "wrong": [
+    [
+     "50 of 100",
+     "The Knesset has 120 seats."
+    ],
+    [
+     "60 of 120",
+     "Half is not a majority; 61 is."
+    ],
+    [
+     "120 of 120",
+     "A majority needs only 61."
+    ]
+   ],
+   "exp": "A majority is more than half: 61."
+  }
+ ],
+ "Parliamentary democracy": [
+  {
+   "q": "Which statement about Israel's government is true according to your quick check?",
+   "right": "It is a parliamentary democracy",
+   "wrong": [
+    [
+     "It is ruled by a powerful president",
+     "The president is ceremonial."
+    ],
+    [
+     "Voters choose the prime minister directly",
+     "They vote for a party."
+    ],
+    [
+     "It has no political parties",
+     "It has many parties."
+    ]
+   ],
+   "exp": "You got this one right on the quick check."
+  }
+ ],
+ "Voting for a party": [
+  {
+   "q": "What do Israelis choose on the ballot in national elections?",
+   "right": "A political party",
+   "wrong": [
+    [
+     "A candidate for president",
+     "The president isn't elected by the public."
+    ],
+    [
+     "A candidate for prime minister",
+     "They vote for a party."
+    ],
+    [
+     "Individual Knesset members",
+     "They vote for a party list."
+    ]
+   ],
+   "exp": "Seats are divided based on each party's share of the vote."
+  }
+ ],
+ "Israel's president": [
+  {
+   "q": "On your quick check you missed this one. Which statement is TRUE?",
+   "right": "The president appoints who will try to form a government",
+   "wrong": [
+    [
+     "The president runs the government day to day",
+     "The president is mainly ceremonial."
+    ],
+    [
+     "The president writes Israel's laws",
+     "The Knesset passes laws."
+    ],
+    [
+     "The president controls the Knesset and decides which laws it passes",
+     "The president does not control the Knesset."
+    ]
+   ],
+   "exp": "Ceremonial role, with one key job after elections."
+  }
+ ],
+ "Electoral threshold": [
+  {
+   "q": "A small party wins 2% of the vote. What happens?",
+   "right": "It doesn't enter the Knesset",
+   "wrong": [
+    [
+     "It wins exactly two seats",
+     "It is below the 3.25% threshold."
+    ],
+    [
+     "It automatically joins the coalition",
+     "It wins no seats."
+    ],
+    [
+     "It becomes the opposition leader",
+     "It is not in the Knesset."
+    ]
+   ],
+   "exp": "A party that passes the threshold gets about 4 seats, not 1."
+  }
+ ],
+ "Coalition": [
+  {
+   "q": "Why do Israeli parties usually need to form coalitions?",
+   "right": "No single party controls a majority",
+   "wrong": [
+    [
+     "Every party must be in the government",
+     "Some parties are in the opposition."
+    ],
+    [
+     "The president orders several parties to rule",
+     "The president doesn't choose the coalition."
+    ],
+    [
+     "Israel does not allow single-party rule by law",
+     "It simply has never happened."
+    ]
+   ],
+   "exp": "No party has ever won 61 seats alone."
+  }
+ ],
+ "Opposition": [
+  {
+   "q": "After a coalition forms with 64 seats, what are the remaining parties called?",
+   "right": "The opposition",
+   "wrong": [
+    [
+     "The president's party",
+     "The president is not a party leader."
+    ],
+    [
+     "The threshold parties",
+     "That is not a term for parties outside government."
+    ],
+    [
+     "The mandate",
+     "That is a historical system."
+    ]
+   ],
+   "exp": "Everyone outside the coalition."
+  }
+ ],
+ "Largest party may not govern": [
+  {
+   "q": "Likud wins the most seats, 27, but cannot reach 61 with partners. What is the best-supported outcome?",
+   "right": "Another leader may get a chance to form a government",
+   "wrong": [
+    [
+     "Likud governs alone with 27 seats",
+     "27 is far short of 61."
+    ],
+    [
+     "The president becomes prime minister",
+     "The president is ceremonial."
+    ],
+    [
+     "The Knesset is dissolved forever and never meets again after that",
+     "If no one succeeds, there are new elections."
+    ]
+   ],
+   "exp": "Your notes: if the first can't, the second gets to try; if that fails, re-elections."
+  }
+ ],
+ "Bloc": [
+  {
+   "q": "Your election tracker showed no bloc at 61. What does that mean?",
+   "right": "Neither group of allies can govern alone",
+   "wrong": [
+    [
+     "A party has won a majority alone",
+     "No bloc, let alone a party, reached 61."
+    ],
+    [
+     "The election results are fake",
+     "It means no majority yet."
+    ],
+    [
+     "The president must rule the country instead of the parties",
+     "The president is ceremonial."
+    ]
+   ],
+   "exp": "Unaligned parties or broken promises may decide the outcome."
+  }
+ ],
+ "Pro of coalitions": [
+  {
+   "q": "Which is a benefit of Israel's coalition system?",
+   "right": "Smaller parties gain a voice",
+   "wrong": [
+    [
+     "Only the largest party has a voice",
+     "Coalitions give small parties leverage."
+    ],
+    [
+     "Elections are rarely needed",
+     "Coalitions can fall, forcing elections."
+    ],
+    [
+     "The president has complete control",
+     "The president is ceremonial."
+    ]
+   ],
+   "exp": "Leverage for small parties."
+  }
+ ],
+ "Con of coalitions": [
+  {
+   "q": "Which is a weakness of coalition governments?",
+   "right": "They can collapse if partners leave",
+   "wrong": [
+    [
+     "They eliminate political parties",
+     "They depend on parties."
+    ],
+    [
+     "Citizens can no longer vote",
+     "Citizens still vote."
+    ],
+    [
+     "The Knesset cannot pass any laws at all",
+     "The Knesset still passes laws."
+    ]
+   ],
+   "exp": "Your quick check: true that a coalition can fall apart."
+  }
+ ],
+ "Ruled-out partners": [
+  {
+   "q": "Your coalition of 73 seats needed Yashar, which promised not to sit with Netanyahu. What best describes this coalition?",
+   "right": "Possible on paper but hard to form",
+   "wrong": [
+    [
+     "Certain to form because it has 73 seats",
+     "Seat math doesn't overcome a promise not to join."
+    ],
+    [
+     "Impossible because 73 is under 61",
+     "73 is over 61."
+    ],
+    [
+     "Automatic because Likud is largest",
+     "Being largest doesn't guarantee partners."
+    ]
+   ],
+   "exp": "\"A coalition with 61 seats is mathematically possible, but that does not mean the parties would agree.\""
+  }
+ ],
+ "Torah to tradition": [
+  {
+   "q": "Which example best fits the path from Torah to rabbinic interpretation to tradition?",
+   "right": "Simchat Torah, a celebration not in the Torah",
+   "wrong": [
+    [
+     "The Ten Commandments given at Sinai",
+     "That is Torah itself."
+    ],
+    [
+     "Avraham leaving Haran",
+     "That is a Torah story."
+    ],
+    [
+     "Joseph rationing grain in Egypt during the famine",
+     "That is a Torah story."
+    ]
+   ],
+   "exp": "Simchat Torah grew from the custom of finishing and restarting the Torah."
+  }
+ ],
+ "Simchat Torah": [
+  {
+   "q": "Why do Jews begin Bereishit right after finishing Devarim on Simchat Torah?",
+   "right": "To show learning should never stop",
+   "wrong": [
+    [
+     "Because the Torah commands that exact day",
+     "Simchat Torah is not in the Torah."
+    ],
+    [
+     "Because Devarim was too long to finish",
+     "The cycle is finished."
+    ],
+    [
+     "Because Moshe asked to be read twice",
+     "It is about continuous learning."
+    ]
+   ],
+   "exp": "Your notes: 'We should never stop learning Torah.'"
+  }
+ ],
+ "Shmini Atzeret": [
+  {
+   "q": "According to your notes, how is the extra day after Sukkot explained?",
+   "right": "The celebration was too good to end",
+   "wrong": [
+    [
+     "It was added by Pharaoh in Egypt",
+     "It is a Jewish holiday."
+    ],
+    [
+     "It marks the creation of Adam and Eve",
+     "That is Rosh Hashanah."
+    ],
+    [
+     "It replaced Yom Kippur",
+     "It does not replace Yom Kippur."
+    ]
+   ],
+   "exp": "\"A party you don't want to end.\""
+  }
+ ],
+ "Oral and written Torah": [
+  {
+   "q": "How does the idea of oral tradition help explain new customs?",
+   "right": "Interpretation can grow around a fixed text",
+   "wrong": [
+    [
+     "The written Torah keeps being rewritten",
+     "Your notes say it can't be changed."
+    ],
+    [
+     "Customs come only from written law",
+     "Many customs are not in the Torah."
+    ],
+    [
+     "Oral tradition replaced the written Torah long ago",
+     "It interprets the Torah."
+    ]
+   ],
+   "exp": "The text stays; interpretation and custom grow."
+  }
+ ],
+ "Common core, local form": [
+  {
+   "q": "Which conclusion is best supported by the Rosh Hashanah traditions article?",
+   "right": "Communities kept a shared core but adapted it locally",
+   "wrong": [
+    [
+     "Every community ate exactly the same foods",
+     "Foods varied widely."
+    ],
+    [
+     "Customs never changed after the Torah",
+     "Many developed later, some in medieval times."
+    ],
+    [
+     "Local foods replaced the holiday's meaning in every community",
+     "The meaning stayed; the form changed."
+    ]
+   ],
+   "exp": "Bene Israel and Cochin Jews each adapted to their region's ingredients."
+  }
+ ],
+ "Apples and honey": [
+  {
+   "q": "What does the dating of apples and honey to the 1300s show about traditions?",
+   "right": "Some 'ancient' customs began later",
+   "wrong": [
+    [
+     "All customs come straight from Sinai",
+     "This one is medieval."
+    ],
+    [
+     "Apples and honey are commanded in the Torah",
+     "It is a later custom."
+    ],
+    [
+     "Every community adopted it immediately",
+     "Ethiopian Jews did not."
+    ]
+   ],
+   "exp": "Traditions develop over time."
+  }
+ ],
+ "Beta Israel": [
+  {
+   "q": "What best explains why customs that seem universal were not central to Ethiopian Jews?",
+   "right": "They developed apart from other communities",
+   "wrong": [
+    [
+     "They rejected Rosh Hashanah entirely",
+     "They observed it as Brenha Serkan."
+    ],
+    [
+     "They had no access to any food",
+     "They had foods like injera and lamb."
+    ],
+    [
+     "They lived in medieval Germany near the city of Worms",
+     "They lived in Ethiopia."
+    ]
+   ],
+   "exp": "Isolation meant a different path of development."
+  }
+ ],
+ "Turkish Jews and honey": [
+  {
+   "q": "What does the Turkish sugar custom show about how traditions adapt?",
+   "right": "The meaning is kept while the form changes",
+   "wrong": [
+    [
+     "The wish for sweetness was abandoned",
+     "Sugar keeps the wish for sweetness."
+    ],
+    [
+     "Honey was banned in the Torah",
+     "It was a kashrut concern."
+    ],
+    [
+     "Every Jewish community copied it from Izmir",
+     "It was specific to some families."
+    ]
+   ],
+   "exp": "Keep the sweetness, change the food."
+  }
+ ],
+ "Knowledge": [
+  {
+   "q": "\"A Torah scroll is valuable, but someone must know how to read it.\" What larger point is the author making?",
+   "right": "Objects need knowledge to keep meaning",
+   "wrong": [
+    [
+     "Torah scrolls should be replaced by books",
+     "The point is about knowledge, not format."
+    ],
+    [
+     "Only teachers should own Torah scrolls",
+     "The point is about teaching."
+    ],
+    [
+     "Physical objects matter more than people",
+     "The opposite."
+    ]
+   ],
+   "exp": "Education turns objects into a living tradition."
+  }
+ ],
+ "Institutions": [
+  {
+   "q": "Why aren't texts and traditions alone enough to sustain a community?",
+   "right": "Communities also need institutions",
+   "wrong": [
+    [
+     "Texts are always lost when people move",
+     "Texts can travel."
+    ],
+    [
+     "Traditions are not part of Jewish life",
+     "They are central."
+    ],
+    [
+     "Communities need only food and shelter",
+     "That helps individuals, not a community."
+    ]
+   ],
+   "exp": "Your answer named synagogues, schools, cemeteries and courts."
+  }
+ ],
+ "Adaptation balance": [
+  {
+   "q": "A community changes everything to fit its new country. What problem does the reading warn about?",
+   "right": "Nothing distinct may be left to preserve",
+   "wrong": [
+    [
+     "It will survive more easily forever",
+     "The reading warns of losing what makes it distinct."
+    ],
+    [
+     "It will refuse to learn the language",
+     "That is the opposite problem."
+    ],
+    [
+     "It will have far too many institutions to support",
+     "Not the reading's concern."
+    ]
+   ],
+   "exp": "Your teacher asked: what happens when a community totally assimilates?"
+  }
+ ],
+ "Portable civilization": [
+  {
+   "q": "Which statement best explains how Jewish communities survived many displacements?",
+   "right": "Their core could move with them",
+   "wrong": [
+    [
+     "They never moved from one place",
+     "They moved many times."
+    ],
+    [
+     "They depended on one building",
+     "The reading says they didn't."
+    ],
+    [
+     "They gave up all their traditions",
+     "Traditions were carried along."
+    ]
+   ],
+   "exp": "Texts, knowledge, rituals, institutions and memory can be rebuilt."
+  }
+ ]
+}

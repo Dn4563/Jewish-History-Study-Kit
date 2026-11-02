@@ -1,0 +1,2068 @@
+{
+ "sections": [
+  {
+   "name": "Set A: Avraham",
+   "mode": "practice",
+   "tips": [
+    "Read the question stem first so you know what you are looking for in the source.",
+    "\"Best supported\" means the answer the source actually proves. A choice can be true and still not be supported by this source.",
+    "Separate evidence (what the text says) from inference (what you conclude from it).",
+    "Watch for overgeneralization: \"all,\" \"everyone,\" \"never,\" \"only.\"",
+    "Honors: if two answers look right, pick the one that is more precise and better supported; check it against counterevidence."
+   ],
+   "sources": {
+    "G12": {
+     "title": "Leaving Haran (Genesis 12:1–4)",
+     "attr": "Genesis 12:1–4, as printed in your Lesson 1.4 source sheet.",
+     "label": "From your class packet.",
+     "paras": [
+      "1. G-d said to Avram, \"Go forth from your land, from your birthplace and from your father's house to the land that I will show you.",
+      "2. I will make of you a great nation, and I will bless you; I will make your name great, and you shall be a blessing.",
+      "3. I will bless those who bless you … and all the families of the earth shall bless themselves by you.\"",
+      "4. So Avram went, as G-d had spoken to him, and Lot went with him."
+     ]
+    },
+    "G13": {
+     "title": "Avraham and Lot (Genesis 13:7–11)",
+     "attr": "Genesis 13, as printed in your Lesson 1.4 source sheet.",
+     "label": "From your class packet.",
+     "paras": [
+      "7. There was quarreling between the herdsmen of Avram and the herdsmen of Lot.",
+      "8. Avram said to Lot, \"Let there be no quarrel between you and me, and between my herdsmen and yours, for we are relatives.",
+      "9. Is not the whole land before you? Please separate from me. If you go to the left, I will go to the right; and if you go to the right, I will go to the left.\"",
+      "10–11. Lot looked out, chose the well-watered Jordan plain for himself, and the two separated."
+     ]
+    },
+    "G16": {
+     "title": "Hagar (Genesis 16:1–6)",
+     "attr": "Genesis 16, as printed in your Lesson 1.4 source sheet.",
+     "label": "From your class packet.",
+     "paras": [
+      "Sarai said to Avram, \"G-d has kept me from bearing. Consort with my servant; perhaps I shall have a son through her.\" And Avram listened to Sarai.",
+      "He came to Hagar and she conceived; and when she saw that she had conceived, her mistress was lowered in her esteem.",
+      "Sarai said to Avram, \"The wrong done me is your fault! … Let G-d decide between you and me!\"",
+      "Avram said to Sarai, \"Your servant is in your hands; do to her as you think best.\" Then Sarai treated her harshly, and Hagar ran away from her."
+     ]
+    },
+    "G18": {
+     "title": "Avraham pleads for Sodom (Genesis 18:23–25)",
+     "attr": "Genesis 18, as printed in your Avraham text study.",
+     "label": "From your class packet.",
+     "text": "Abraham came forward and said, \"Will You indeed sweep away the innocent along with the guilty? What if there should be fifty innocent within the city; will You then wipe out the place and not forgive it for the sake of the innocent fifty who are in it? Far be it from You to do such a thing, to bring death upon the innocent as well as the guilty, so that innocent and guilty fare alike. Far be it from You! Shall not the Judge of all the earth deal justly?\""
+    },
+    "G22": {
+     "title": "Akeidat Yitzchak (Genesis 22:1–3, 7–8)",
+     "attr": "Genesis 22, as printed in your Lesson 1.4 source sheet.",
+     "label": "From your class packet.",
+     "paras": [
+      "G-d tested Avraham and said to him, \"Avraham,\" and he answered, \"Here I am.\" G-d said, \"Take your son, your favored one, Yitzchak, whom you love, and go to the land of Moriah, and offer him there as a burnt offering…\"",
+      "So early the next morning, Avraham saddled his donkey … and set out for the place of which G-d had told him.",
+      "Yitzchak said, \"Father! … Here are the firestone and the wood; but where is the sheep for the burnt offering?\" Avraham said, \"G-d will see to the sheep for the burnt offering, my son.\" And the two of them walked on together."
+     ]
+    },
+    "BR": {
+     "title": "The palace (Bereishit Rabbah 39:1)",
+     "attr": "Midrash compiled c. 5th century CE, as printed in \"Avraham: Why Was He Chosen?\"",
+     "label": "From your class packet.",
+     "text": "A man was traveling when he saw a beautifully illuminated palace. He wondered, 'Is it possible that this palace has no owner?' Immediately the owner looked out and said, 'I am the owner of this palace.' Likewise, Avraham looked at the world and wondered, 'Is it possible that this world has no One who governs it?' Immediately G-d revealed Himself to Avraham."
+    },
+    "RAM": {
+     "title": "Rambam on Avraham",
+     "attr": "Rambam (Maimonides), Mishneh Torah, Laws of Foreign Worship 1:3, as printed in \"Avraham: Why Was He Chosen?\"",
+     "label": "From your class packet.",
+     "text": "After this mighty man was weaned, he began to explore and think. Though he was a child he began to think incessantly … wondering: how is it possible for the sphere to continue to revolve without having anyone controlling it? Who is causing it to revolve? … He had no teacher… Rather he was mired in Ur Kasdim among the foolish idolaters… He realized that there was one G-d who controlled the sphere, that He created everything, and that there is no other G-d among all the other entities… Abraham was forty years old when he became aware of his Creator."
+    },
+    "UR": {
+     "title": "Ur and southern Mesopotamia",
+     "attr": "From the evidence packet \"Should He Leave Mesopotamia?\" (Source C).",
+     "label": "From your class packet.",
+     "paras": [
+      "Ur was one of the important cities of ancient Mesopotamia and was part of a highly developed urban civilization.",
+      "The Tigris and Euphrates river system supported irrigation. Canals moved water to fields and helped farmers produce grain and other crops.",
+      "Ur participated in long-distance trade. Because southern Mesopotamia lacked some natural resources, merchants imported materials such as timber, metals, and stone.",
+      "Wealthy households could own livestock, goods, land-use rights, and valuable possessions and could depend on extended family and business relationships."
+     ]
+    }
+   },
+   "questions": [
+    {
+     "id": "A1",
+     "type": "mcq",
+     "skill": "Evidence vs. inference",
+     "topic": "Avraham",
+     "stem": "Which statement is directly stated in the passage rather than inferred?",
+     "options": [
+      "Avram felt no fear about leaving home",
+      "Avram went as G-d had spoken",
+      "Avram wanted to become a great nation",
+      "Avram trusted G-d more than his own family"
+     ],
+     "ans": 1,
+     "exp": "Verse 4 states the action. Fear, wishes and trust are inferences.",
+     "why": [
+      "The text records his action, not his feelings.",
+      "",
+      "The text gives G-d's promise, not Avram's wishes.",
+      "That is an interpretation."
+     ],
+     "src": "G12"
+    },
+    {
+     "id": "A2",
+     "type": "mcq",
+     "skill": "Purpose of a detail",
+     "topic": "Avraham",
+     "stem": "The Torah most likely lists 'your land, your birthplace and your father's house' in order to",
+     "options": [
+      "show that Avram owned three separate homes",
+      "explain where the land of Canaan was located",
+      "show that Lot had to leave all three as well",
+      "stress how much Avram was asked to give up"
+     ],
+     "ans": 3,
+     "exp": "Three layers of home make the request heavier.",
+     "why": [
+      "The list is about attachments, not property.",
+      "The destination isn't named at all.",
+      "The command is spoken to Avram.",
+      ""
+     ],
+     "src": "G12"
+    },
+    {
+     "id": "A3",
+     "type": "mcq",
+     "skill": "Best-supported conclusion",
+     "topic": "Covenant",
+     "stem": "Which conclusion about the relationship in the passage is best supported?",
+     "options": [
+      "Both sides take on commitments",
+      "Only Avram is bound by any obligation",
+      "Only G-d is bound by any obligation",
+      "Neither side expects anything from the other"
+     ],
+     "ans": 0,
+     "exp": "Avram must leave; G-d promises nation, blessing, a great name.",
+     "why": [
+      "",
+      "G-d also commits to promises.",
+      "Avram must go forth.",
+      "Both expect something."
+     ],
+     "src": "G12"
+    },
+    {
+     "id": "A4",
+     "type": "mcq",
+     "skill": "Character from evidence",
+     "topic": "Avraham",
+     "stem": "Which quality is best supported by Avram's words to Lot?",
+     "options": [
+      "Fear of fighting his nephew",
+      "Desire for the best land",
+      "Putting peace before advantage",
+      "Obedience to a command from G-d"
+     ],
+     "ans": 2,
+     "exp": "\"Let there be no quarrel… for we are relatives.\"",
+     "why": [
+      "The text stresses peace among relatives, not fear.",
+      "He lets Lot choose first.",
+      "",
+      "No command from G-d appears here."
+     ],
+     "src": "G13"
+    },
+    {
+     "id": "A5",
+     "type": "mcq",
+     "skill": "Compare two sources",
+     "topic": "Avraham",
+     "stem": "Compared with Genesis 12:4, Avraham's behavior in this passage is best described as",
+     "options": [
+      "obeying silently and without question, just as in Genesis 12",
+      "protecting his own household from harm",
+      "challenging G-d rather than simply obeying",
+      "refusing to speak with G-d at all"
+     ],
+     "ans": 2,
+     "exp": "Genesis 12: he goes. Genesis 18: he argues for justice.",
+     "why": [
+      "Here he argues.",
+      "He argues for strangers in Sodom.",
+      "",
+      "He speaks boldly."
+     ],
+     "src": "G18"
+    },
+    {
+     "id": "A6",
+     "type": "mcq",
+     "skill": "Claim in a source",
+     "topic": "Avraham",
+     "stem": "Which claim does Avraham make in the passage?",
+     "options": [
+      "The innocent should not die with the guilty",
+      "Everyone living in the city of Sodom is innocent of any wrongdoing",
+      "G-d has no authority over the city",
+      "Lot's family alone deserves to be saved"
+     ],
+     "ans": 0,
+     "exp": "His appeal is to justice for the innocent.",
+     "why": [
+      "",
+      "He asks about fifty innocent among the guilty.",
+      "He calls G-d 'Judge of all the earth.'",
+      "He doesn't mention Lot."
+     ],
+     "src": "G18"
+    },
+    {
+     "id": "A7",
+     "type": "mcq",
+     "skill": "Counterevidence",
+     "topic": "Avraham",
+     "stem": "A student claims, 'Avraham always stood up for people who were vulnerable.' Which detail best challenges this claim?",
+     "options": [
+      "\"Will You sweep away the innocent?\"",
+      "\"Let there be no quarrel between us\"",
+      "\"G-d has kept me from bearing\"",
+      "\"Your servant is in your hands\""
+     ],
+     "ans": 3,
+     "exp": "With Hagar, he hands the conflict back to Sarai, and Hagar flees.",
+     "why": [
+      "That supports the claim; it's from Sodom.",
+      "That shows peacemaking, not a failure to protect.",
+      "Sarai says this; it's not about Avraham's choices.",
+      ""
+     ],
+     "src": "G16"
+    },
+    {
+     "id": "A8",
+     "type": "mcq",
+     "skill": "Evidence vs. inference",
+     "topic": "Avraham",
+     "stem": "Which detail most directly shows Avraham acted without delay?",
+     "options": [
+      "He told Yitzchak that G-d would provide",
+      "He set out early the next morning",
+      "He answered 'Here I am' when called",
+      "The two of them walked on together"
+     ],
+     "ans": 1,
+     "exp": "\"So early the next morning, Avraham saddled his donkey.\"",
+     "why": [
+      "That shows faith or reassurance, not timing.",
+      "",
+      "That shows readiness to listen, not timing of action.",
+      "That shows closeness, not speed."
+     ],
+     "src": "G22"
+    },
+    {
+     "id": "A9",
+     "type": "mcq",
+     "skill": "Interpret a source",
+     "topic": "Avraham",
+     "stem": "According to the midrash, who takes the first step?",
+     "options": [
+      "G-d calls Avraham with no prior search",
+      "Avraham asks; then G-d answers",
+      "The palace owner searches for the traveler",
+      "Neither one acts until Sinai"
+     ],
+     "ans": 1,
+     "exp": "This supports 'they chose each other.'",
+     "why": [
+      "That fits Genesis 12, not this midrash.",
+      "",
+      "The traveler wonders first.",
+      "G-d reveals Himself right away."
+     ],
+     "src": "BR"
+    },
+    {
+     "id": "A10",
+     "type": "mcq",
+     "skill": "Compare interpretations",
+     "topic": "Avraham",
+     "stem": "How does Rambam's account differ from Genesis 12?",
+     "options": [
+      "It says Avraham was born in Canaan",
+      "It says Avraham had a great teacher",
+      "It says G-d spoke to Avraham as a baby",
+      "It explains why Avraham was chosen"
+     ],
+     "ans": 3,
+     "exp": "Genesis 12 gives no reason; Rambam fills the gap with Avraham's search.",
+     "why": [
+      "Rambam places him in Ur.",
+      "Rambam says he had no teacher.",
+      "Rambam stresses Avraham's own reasoning.",
+      ""
+     ],
+     "src": "RAM"
+    },
+    {
+     "id": "A11",
+     "type": "mcq",
+     "skill": "Limits of a source",
+     "topic": "Avraham",
+     "stem": "What is the strongest reason to be careful using Rambam as evidence of what Avraham thought?",
+     "options": [
+      "He wrote many centuries after Avraham",
+      "He disagreed with the Torah about where Avraham was born",
+      "He never wrote about Avraham at all",
+      "He was one of the idolaters in Ur"
+     ],
+     "ans": 0,
+     "exp": "A later interpreter fills gaps; he is not an eyewitness.",
+     "why": [
+      "",
+      "He places Avraham in Ur, as tradition does.",
+      "This passage is about Avraham.",
+      "He lived much later, in the Middle Ages."
+     ],
+     "src": "RAM"
+    },
+    {
+     "id": "A12",
+     "type": "mcq",
+     "skill": "Apply evidence",
+     "topic": "Avraham",
+     "stem": "Which detail from this source would a wealthy household in Ur most likely use to argue for staying?",
+     "options": [
+      "Canaan's seasonal rainfall",
+      "Imported timber, metals and stone",
+      "Family and business networks",
+      "The dangers of drought in Canaan"
+     ],
+     "ans": 2,
+     "exp": "Staying keeps an established life and relationships.",
+     "why": [
+      "That isn't in this source, and it describes Canaan, not Ur.",
+      "Shows Ur lacked some resources.",
+      "",
+      "That describes Canaan, not Ur."
+     ],
+     "src": "UR"
+    }
+   ]
+  },
+  {
+   "name": "Set B: Family to Nation",
+   "mode": "practice",
+   "tips": [
+    "Read the question stem first so you know what you are looking for in the source.",
+    "\"Best supported\" means the answer the source actually proves. A choice can be true and still not be supported by this source.",
+    "Separate evidence (what the text says) from inference (what you conclude from it).",
+    "Watch for overgeneralization: \"all,\" \"everyone,\" \"never,\" \"only.\"",
+    "Honors: if two answers look right, pick the one that is more precise and better supported; check it against counterevidence."
+   ],
+   "sources": {
+    "G46": {
+     "title": "Jacob's household (Genesis 46:26–27)",
+     "attr": "Genesis 46, as printed in Lesson 2.1.",
+     "label": "From your class packet.",
+     "text": "All the persons belonging to Jacob who came to Egypt — his own issue aside from the wives of Jacob's sons — all these persons numbered 66. And Joseph's sons who were born to him in Egypt were two in number. Thus the total of Jacob's household who came to Egypt was 70 persons."
+    },
+    "EX1": {
+     "title": "A new king (Exodus 1:6–10)",
+     "attr": "Exodus 1, as printed in Lesson 2.1.",
+     "label": "From your class packet.",
+     "paras": [
+      "Joseph died, and all his brothers, and all that generation. But the Israelites were fertile and prolific; they multiplied and increased very greatly, so that the land was filled with them.",
+      "A new king arose over Egypt who did not know Joseph. And he said to his people, 'Look, the Israelite people are far too numerous for us. Let us deal shrewdly with them, so that they may not increase; otherwise in the event of war, they may join our enemies in fighting against us and rise from the ground.'"
+     ]
+    },
+    "G47": {
+     "title": "Settling in Goshen (Genesis 45:10; 47:27)",
+     "attr": "Genesis 45 and 47, as printed in Lesson 2.2.",
+     "label": "From your class packet.",
+     "paras": [
+      "\"You will dwell in the region of Goshen where you will be near me — you and your children and your grandchildren, your flocks and your herds and all that is yours.\" (45:10)",
+      "\"Thus Israel settled in the country of Egypt in the region of Goshen; they acquired holdings in it, and were fertile and increased greatly.\" (47:27)"
+     ]
+    },
+    "G50": {
+     "title": "Joseph's last words (Genesis 50:20–25)",
+     "attr": "Genesis 50, as printed in Lesson 2.2.",
+     "label": "From your class packet.",
+     "text": "\"Besides, although you intended me harm, G-d intended it for good, so as to bring about the present result — the survival of many people…\" So Joseph and his father's household remained in Egypt… At length, Joseph said to his brothers, 'I am about to die. G-d will surely take notice of you and bring you up from this land to the land G-d promised on oath to Abraham, to Isaac and to Jacob.' So Joseph made the sons of Israel swear, saying, 'When G-d has taken notice of you, you shall carry up my bones from here.'"
+    },
+    "SIN": {
+     "title": "Sinai and after (Exodus 19, Exodus 24, Deuteronomy 27)",
+     "attr": "As printed in Lesson 2.3 \"From Family to Nation.\"",
+     "label": "From your class packet.",
+     "paras": [
+      "\"Now, therefore, if you obey my voice faithfully and keep my Covenant, you shall be my treasured possession among all peoples … you shall be to me a kingdom of priests and a holy nation.\" (Exodus 19:5–6)",
+      "\"All the people answered with one voice, saying: 'Everything that the Lord has spoken we will do' … They said, 'Everything that the Lord has spoken we will do and obey.'\" (Exodus 24:3, 7)",
+      "\"Be silent, Israel, and listen. This day you have become the people of the Lord your G-d. Therefore, obey the Lord your G-d and follow His commandments and decrees.\" (Deuteronomy 27:9–10, forty years later)"
+     ]
+    }
+   },
+   "questions": [
+    {
+     "id": "B1",
+     "type": "mcq",
+     "skill": "Classify",
+     "topic": "Family to Nation",
+     "stem": "Using your class definitions, the group in Genesis 46 is best described as",
+     "options": [
+      "a nation with land and laws",
+      "a family",
+      "a people feared by Pharaoh",
+      "a kingdom of priests at Sinai"
+     ],
+     "ans": 1,
+     "exp": "\"All the persons belonging to Jacob\": 70 people, three generations.",
+     "why": [
+      "They have no land or government of their own.",
+      "",
+      "That comes in Exodus 1.",
+      "That comes later."
+     ],
+     "src": "G46"
+    },
+    {
+     "id": "B2",
+     "type": "mcq",
+     "skill": "Compare two sources",
+     "topic": "Family to Nation",
+     "stem": "What changes between the language of Genesis 46 and Exodus 1:9?",
+     "options": [
+      "From 'slaves' to 'free people'",
+      "From 'a nation with laws' to 'a small family of seventy'",
+      "From 'Egyptians' to 'Canaanites'",
+      "From 'persons of Jacob' to 'the Israelite people'"
+     ],
+     "ans": 3,
+     "exp": "Outsiders now see a distinct people.",
+     "why": [
+      "They become slaves after this, not before.",
+      "It goes the other way.",
+      "Neither passage says this.",
+      ""
+     ],
+     "src": "EX1"
+    },
+    {
+     "id": "B3",
+     "type": "mcq",
+     "skill": "Cause and effect",
+     "topic": "Family to Nation",
+     "stem": "According to Pharaoh, what is the cause of his plan to 'deal shrewdly' with the Israelites?",
+     "options": [
+      "Their numbers and possible disloyalty in war",
+      "Their refusal to farm the land of Goshen as Joseph had ordered",
+      "Joseph's order that they leave Egypt",
+      "Their worship of the gods of Egypt"
+     ],
+     "ans": 0,
+     "exp": "\"Far too numerous… they may join our enemies.\"",
+     "why": [
+      "",
+      "He never mentions farming.",
+      "Joseph has died; no such order.",
+      "He gives no religious reason."
+     ],
+     "src": "EX1"
+    },
+    {
+     "id": "B4",
+     "type": "mcq",
+     "skill": "Point of view",
+     "topic": "Family to Nation",
+     "stem": "Which statement best describes Pharaoh's point of view in the passage?",
+     "options": [
+      "He sees the Israelites as honored guests",
+      "He sees the Israelites as a small family",
+      "He sees growth as a security threat",
+      "He sees the Israelites as Egypt's rulers"
+     ],
+     "ans": 2,
+     "exp": "The new king 'did not know Joseph.'",
+     "why": [
+      "That was the earlier welcome under Joseph.",
+      "He calls them 'far too numerous.'",
+      "",
+      "He fears them; he doesn't call them rulers."
+     ],
+     "src": "EX1"
+    },
+    {
+     "id": "B5",
+     "type": "mcq",
+     "skill": "Cause and effect",
+     "topic": "Family to Nation",
+     "stem": "Which detail best explains why leaving Egypt might have been difficult?",
+     "options": [
+      "Pharaoh had already enslaved them",
+      "Goshen was far from Joseph",
+      "They acquired holdings and grew",
+      "They owned nothing in Egypt"
+     ],
+     "ans": 2,
+     "exp": "Prosperity is a practical reason to stay.",
+     "why": [
+      "Slavery came later.",
+      "Goshen was 'near me.'",
+      "",
+      "They acquired holdings."
+     ],
+     "src": "G47"
+    },
+    {
+     "id": "B6",
+     "type": "mcq",
+     "skill": "Interpret a source",
+     "topic": "Family to Nation",
+     "stem": "What did Joseph most likely believe about when the Israelites should leave Egypt?",
+     "options": [
+      "When G-d took notice of them",
+      "Right after the famine ended",
+      "Only after Pharaoh asked them to go",
+      "Never, since Egypt was the promised land"
+     ],
+     "ans": 0,
+     "exp": "Pakod yifkod: 'G-d will surely take notice of you.'",
+     "why": [
+      "",
+      "He links leaving to G-d's action.",
+      "He doesn't mention Pharaoh.",
+      "He names the land promised to Abraham."
+     ],
+     "src": "G50"
+    },
+    {
+     "id": "B7",
+     "type": "mcq",
+     "skill": "Covenant connection",
+     "topic": "Covenant",
+     "stem": "Joseph's words connect most directly to which earlier promise?",
+     "options": [
+      "Pharaoh's promise to feed the world",
+      "Lot's choice of the Jordan plain",
+      "The promise that Hagar's son would become a great nation",
+      "The land promised to Avraham, Yitzchak and Yaakov"
+     ],
+     "ans": 3,
+     "exp": "He names Abraham, Isaac and Jacob.",
+     "why": [
+      "That isn't a covenant promise.",
+      "That isn't a promise.",
+      "Joseph names the promised land.",
+      ""
+     ],
+     "src": "G50"
+    },
+    {
+     "id": "B8",
+     "type": "mcq",
+     "skill": "Evidence of expectation",
+     "topic": "Family to Nation",
+     "stem": "Which detail best shows Joseph expected a future return to Canaan?",
+     "options": [
+      "\"You intended me harm\"",
+      "\"Carry up my bones from here\"",
+      "\"The survival of many people\"",
+      "\"Joseph and his father's household remained\""
+     ],
+     "ans": 1,
+     "exp": "He wants his bones taken to the promised land.",
+     "why": [
+      "That is about the past.",
+      "",
+      "That explains why he came to Egypt.",
+      "That shows they stayed."
+     ],
+     "src": "G50"
+    },
+    {
+     "id": "B9",
+     "type": "mcq",
+     "skill": "Compare two covenants",
+     "topic": "Covenant",
+     "stem": "Which is the clearest difference between Exodus 19:5–6 and G-d's words to Avram in Genesis 12?",
+     "options": [
+      "Sinai removes all of G-d's promises",
+      "Sinai adds 'if' conditions for a whole people",
+      "Sinai is spoken to one man alone",
+      "Sinai happens before Avram ever leaves his father's house in Haran"
+     ],
+     "ans": 1,
+     "exp": "\"If you obey my voice … you shall be…\"",
+     "why": [
+      "Sinai includes promises such as 'treasured possession.'",
+      "",
+      "It is spoken to the Children of Israel.",
+      "Sinai is generations later."
+     ],
+     "src": "SIN"
+    },
+    {
+     "id": "B10",
+     "type": "mcq",
+     "skill": "Significance",
+     "topic": "Covenant",
+     "stem": "Why was it significant that the people answered 'with one voice'?",
+     "options": [
+      "It showed the laws were forced on them",
+      "It meant only Moshe agreed",
+      "It showed they rejected the laws",
+      "They accepted the covenant together"
+     ],
+     "ans": 3,
+     "exp": "A shared choice is a step from family to nation.",
+     "why": [
+      "They chose it.",
+      "The people answered.",
+      "They said 'we will do.'",
+      ""
+     ],
+     "src": "SIN"
+    },
+    {
+     "id": "B11",
+     "type": "mcq",
+     "skill": "Continuity and change",
+     "topic": "Covenant",
+     "stem": "Why might Moshe tell a new generation 'this day you have become the people of the Lord'?",
+     "options": [
+      "Each generation must accept the covenant itself",
+      "The covenant made at Sinai had been cancelled after the golden calf",
+      "They had already conquered the land",
+      "They had never heard of the covenant"
+     ],
+     "ans": 0,
+     "exp": "Nationhood is renewed, not just inherited.",
+     "why": [
+      "",
+      "It's renewed, not cancelled.",
+      "They were about to enter.",
+      "He is renewing it, not introducing it."
+     ],
+     "src": "SIN"
+    },
+    {
+     "id": "B12",
+     "type": "mcq",
+     "skill": "Best-supported conclusion",
+     "topic": "Family to Nation",
+     "stem": "Which conclusion is best supported by all three excerpts together?",
+     "options": [
+      "They became a nation only once they had settled in Canaan",
+      "They never accepted the covenant",
+      "They were treated as a nation before entering the land",
+      "The covenant belonged only to Moshe"
+     ],
+     "ans": 2,
+     "exp": "Your answer: the land completed nationhood but didn't create it.",
+     "why": [
+      "Two excerpts call them a nation or people in the wilderness.",
+      "They answered 'we will do.'",
+      "",
+      "The whole people answered."
+     ],
+     "src": "SIN"
+    }
+   ]
+  },
+  {
+   "name": "Set C: Israel, Antisemitism, Traditions",
+   "mode": "practice",
+   "tips": [
+    "Read the question stem first so you know what you are looking for in the source.",
+    "\"Best supported\" means the answer the source actually proves. A choice can be true and still not be supported by this source.",
+    "Separate evidence (what the text says) from inference (what you conclude from it).",
+    "Watch for overgeneralization: \"all,\" \"everyone,\" \"never,\" \"only.\"",
+    "Honors: if two answers look right, pick the one that is more precise and better supported; check it against counterevidence."
+   ],
+   "sources": {
+    "KN": {
+     "title": "Election check-ins",
+     "attr": "From your Israel Elections 2026 assignment (JTA tracker).",
+     "label": "From your class packet.",
+     "table": [
+      [
+       "Check-in",
+       "Type of information",
+       "Largest party",
+       "Blocs"
+      ],
+      [
+       "Tuesday, before results",
+       "Poll of polls (projected seats)",
+       "Yashar and Likud tied, 22 each",
+       "Opposition 53, Netanyahu bloc 53, unaligned 14"
+      ],
+      [
+       "Tuesday night",
+       "Exit polls plus 33% of votes counted",
+       "Likud, 27 projected",
+       "No bloc reaches 61"
+      ],
+      [
+       "Wednesday morning",
+       "79% of votes counted plus forecast",
+       "Likud, 27",
+       "No bloc reaches 61"
+      ]
+     ]
+    },
+    "AS": {
+     "title": "Two statements about a protest",
+     "attr": "Written for practice using the distinction in your study guide.",
+     "label": "Practice source (written for practice from your class materials; not a verbatim quotation).",
+     "paras": [
+      "Statement 1: \"I oppose this Israeli government policy, and here are the reports that explain why.\"",
+      "Statement 2: \"Jews everywhere are responsible for what Israel's government does.\""
+     ]
+    },
+    "RH": {
+     "title": "Rosh Hashanah traditions",
+     "attr": "From \"Unpacked for Education: Rosh Hashanah Traditions,\" as highlighted in your copy.",
+     "label": "From your class packet.",
+     "paras": [
+      "Beta Israel developed in relative isolation from the rabbinic Jewish communities of Europe, North Africa and the Middle East. As a result, many customs that now seem nearly universal — including apples and honey and the elaborate Rosh Hashanah seder — weren't historically central to Ethiopian Jewish practice.",
+      "Following the teachings of Rabbi Chaim Palachi … of Izmir, families worried that unfiltered honey might contain pieces of bees, which aren't kosher. Instead, they dipped apples into sugar, preserving the wish for sweetness without using honey.",
+      "Although both communities drew on ingredients such as coconut, cardamom and tropical fruit, Bene Israel and Cochin Jewish cuisines aren't interchangeable. Each adapted the holiday to the ingredients and cooking traditions of its own region."
+     ]
+    },
+    "WWS": {
+     "title": "What would you save?",
+     "attr": "From \"What Would You Save? Rebuilding Jewish Life,\" your two-day assignment.",
+     "label": "From your class packet.",
+     "paras": [
+      "A Torah scroll is valuable, but someone must know how to read it. A Jewish calendar identifies holidays, but people must understand how to observe them.",
+      "But knowledge alone is not enough. Communities also need institutions. Jews living in a new place may establish a synagogue, school, cemetery, charitable organization, court, or system for caring for people who are poor or sick.",
+      "If a community refuses to adapt at all, survival may become difficult. But adapting too completely creates a different problem. If every distinctive tradition disappears, what exactly is being preserved?"
+     ]
+    }
+   },
+   "questions": [
+    {
+     "id": "C1",
+     "type": "mcq",
+     "skill": "Evidence vs. inference",
+     "topic": "Israel",
+     "stem": "Which conclusion about Tuesday's first check-in is best supported by the table?",
+     "options": [
+      "Likud had won the election outright",
+      "It showed projections, not results",
+      "Yashar would form the government",
+      "A bloc had reached 61 seats"
+     ],
+     "ans": 1,
+     "exp": "\"Do not treat polling estimates as actual election results.\"",
+     "why": [
+      "No votes were counted yet.",
+      "",
+      "A tie in polls doesn't show who governs.",
+      "Both blocs were at 53."
+     ],
+     "src": "KN"
+    },
+    {
+     "id": "C2",
+     "type": "mcq",
+     "skill": "Best-supported conclusion",
+     "topic": "Israel",
+     "stem": "Likud had the most seats in the last check-in. Which conclusion is best supported?",
+     "options": [
+      "Likud would govern alone with 27 seats",
+      "Likud had won a Knesset majority",
+      "The election would be repeated at once",
+      "Likud still needed partners to govern"
+     ],
+     "ans": 3,
+     "exp": "Largest party ≠ governing party.",
+     "why": [
+      "27 is far short of 61.",
+      "No bloc reached 61.",
+      "Negotiations come first.",
+      ""
+     ],
+     "src": "KN"
+    },
+    {
+     "id": "C3",
+     "type": "mcq",
+     "skill": "Apply a concept",
+     "topic": "Israel",
+     "stem": "If no bloc reaches 61, what most likely decides who governs?",
+     "options": [
+      "Negotiations with other parties",
+      "The president choosing the prime minister alone",
+      "A second vote by the public the next day",
+      "The party with the most votes automatically"
+     ],
+     "ans": 0,
+     "exp": "Coalition building after the vote.",
+     "why": [
+      "",
+      "The president picks who tries, not who wins.",
+      "Elections come only if forming a government fails.",
+      "It still needs 61."
+     ],
+     "src": "KN"
+    },
+    {
+     "id": "C4",
+     "type": "mcq",
+     "skill": "Apply a concept",
+     "topic": "Israel",
+     "stem": "A party wins 2.5% of the national vote. What happens?",
+     "options": [
+      "It wins three seats",
+      "It joins the government",
+      "It wins no seats",
+      "It leads the opposition"
+     ],
+     "ans": 2,
+     "exp": "The threshold is about 3.25%.",
+     "why": [
+      "It is under the 3.25% threshold.",
+      "It isn't in the Knesset.",
+      "",
+      "It isn't in the Knesset."
+     ]
+    },
+    {
+     "id": "C5",
+     "type": "mcq",
+     "skill": "Recall applied",
+     "topic": "Israel",
+     "stem": "After an election, who appoints the person who will try to form a government?",
+     "options": [
+      "The largest party automatically, with no appointment",
+      "The Supreme Court of Israel",
+      "Israel's president",
+      "A vote of all citizens"
+     ],
+     "ans": 2,
+     "exp": "This was the question you missed on the quick check.",
+     "why": [
+      "Someone must be appointed to try.",
+      "That is not its role.",
+      "",
+      "Citizens vote for parties, not for who forms the government."
+     ]
+    },
+    {
+     "id": "C6",
+     "type": "mcq",
+     "skill": "Distinguish claims",
+     "topic": "Antisemitism",
+     "stem": "Which statement fits your study guide's description of hostility toward Jews as Jews?",
+     "options": [
+      "Statement 2",
+      "Statement 1",
+      "Both statements equally",
+      "Neither statement"
+     ],
+     "ans": 0,
+     "exp": "Blaming Jews everywhere for a government's actions targets Jews as Jews.",
+     "why": [
+      "",
+      "It criticizes a policy and cites reports.",
+      "Statement 1 targets a policy, not Jews.",
+      "Statement 2 blames Jews as a group."
+     ],
+     "src": "AS"
+    },
+    {
+     "id": "C7",
+     "type": "mcq",
+     "skill": "Evaluate a claim",
+     "topic": "Antisemitism",
+     "stem": "What makes Statement 1 different from Statement 2?",
+     "options": [
+      "It is louder and more emotional",
+      "It mentions Israel's government",
+      "It was said out loud at a public protest",
+      "It targets a policy and gives evidence"
+     ],
+     "ans": 3,
+     "exp": "Policy plus evidence vs. a whole people.",
+     "why": [
+      "Tone isn't the difference.",
+      "Both relate to Israel's government.",
+      "Setting doesn't decide it.",
+      ""
+     ],
+     "src": "AS"
+    },
+    {
+     "id": "C8",
+     "type": "mcq",
+     "skill": "Overgeneralization",
+     "topic": "Antisemitism",
+     "stem": "Which statement is an overgeneralization?",
+     "options": [
+      "Some people at a protest may hold extreme views",
+      "Everyone at a protest holds the same view",
+      "A small extremist group can still be dangerous",
+      "Protesters' views should be checked with evidence"
+     ],
+     "ans": 1,
+     "exp": "'Everyone' turns some into all.",
+     "why": [
+      "'Some' is limited, not overgeneralized.",
+      "",
+      "Your review marked this true.",
+      "That is careful reasoning."
+     ]
+    },
+    {
+     "id": "C9",
+     "type": "mcq",
+     "skill": "Evaluate a claim",
+     "topic": "Antisemitism",
+     "stem": "Your review marked 'Most Muslims are Arab' false. What mistake does that statement make?",
+     "options": [
+      "It confuses Israel with Egypt",
+      "It confuses an ethnic group with a religion",
+      "It confuses the Torah with the Quran",
+      "It confuses a government policy with a single person"
+     ],
+     "ans": 1,
+     "exp": "Arab is an ethnic and language group; Muslim is a religion.",
+     "why": [
+      "Neither is mentioned.",
+      "",
+      "Neither is mentioned.",
+      "It is about group identity, not policy."
+     ]
+    },
+    {
+     "id": "C10",
+     "type": "mcq",
+     "skill": "Best-supported conclusion",
+     "topic": "Traditions",
+     "stem": "Which conclusion is best supported by the excerpts?",
+     "options": [
+      "Every community used honey on Rosh Hashanah",
+      "Rosh Hashanah customs never changed over time in any community",
+      "Only Ethiopian Jews kept Rosh Hashanah at all",
+      "Communities adapted a shared holiday to local conditions"
+     ],
+     "ans": 3,
+     "exp": "Shared hope for a sweet year; local forms.",
+     "why": [
+      "Some used sugar; Ethiopian Jews didn't center it.",
+      "The excerpts show change and variation.",
+      "Many communities kept it.",
+      ""
+     ],
+     "src": "RH"
+    },
+    {
+     "id": "C11",
+     "type": "mcq",
+     "skill": "Cause and effect",
+     "topic": "Traditions",
+     "stem": "According to the first excerpt, why weren't apples and honey central to Ethiopian Jewish practice?",
+     "options": [
+      "They developed apart from other communities",
+      "Honey was forbidden to Ethiopian Jews by law",
+      "They didn't observe Rosh Hashanah at all",
+      "Rabbi Chaim Palachi told them to avoid it"
+     ],
+     "ans": 0,
+     "exp": "Isolation shaped which customs developed.",
+     "why": [
+      "",
+      "The excerpt gives isolation as the reason.",
+      "They observed it.",
+      "That's the Turkish custom."
+     ],
+     "src": "RH"
+    },
+    {
+     "id": "C12",
+     "type": "mcq",
+     "skill": "Main idea",
+     "topic": "Traditions",
+     "stem": "Which statement best expresses the author's main point?",
+     "options": [
+      "Physical objects alone can preserve a community",
+      "Communities should never change anything",
+      "A community needs knowledge, institutions and balance",
+      "Communities should adapt completely to fit in with their new neighbors"
+     ],
+     "ans": 2,
+     "exp": "Knowledge, institutions, and adapting without disappearing.",
+     "why": [
+      "The scroll needs a reader.",
+      "Refusing to adapt makes survival hard.",
+      "",
+      "Then nothing distinct is left."
+     ],
+     "src": "WWS"
+    }
+   ]
+  },
+  {
+   "name": "Mock Test (40 questions)",
+   "mode": "exam",
+   "exam": "Mock test",
+   "examTips": [
+    "Like the real test: 40 multiple-choice questions in 42 minutes. Turn the Timer on and leave Shuffle off.",
+    "About one minute per question. Flag hard ones and come back.",
+    "Honors: when two answers look right, choose the one the source proves most directly."
+   ],
+   "tips": [
+    "Read the question stem first so you know what you are looking for in the source.",
+    "\"Best supported\" means the answer the source actually proves. A choice can be true and still not be supported by this source.",
+    "Separate evidence (what the text says) from inference (what you conclude from it).",
+    "Watch for overgeneralization: \"all,\" \"everyone,\" \"never,\" \"only.\"",
+    "Honors: if two answers look right, pick the one that is more precise and better supported; check it against counterevidence."
+   ],
+   "sources": {
+    "UR": {
+     "title": "Ur and southern Mesopotamia",
+     "attr": "From the evidence packet \"Should He Leave Mesopotamia?\" (Source C).",
+     "label": "From your class packet.",
+     "paras": [
+      "Ur was one of the important cities of ancient Mesopotamia and was part of a highly developed urban civilization.",
+      "The Tigris and Euphrates river system supported irrigation. Canals moved water to fields and helped farmers produce grain and other crops.",
+      "Ur participated in long-distance trade. Because southern Mesopotamia lacked some natural resources, merchants imported materials such as timber, metals, and stone.",
+      "Wealthy households could own livestock, goods, land-use rights, and valuable possessions and could depend on extended family and business relationships."
+     ]
+    },
+    "CAN": {
+     "title": "Canaan",
+     "attr": "From the evidence packet \"Should He Leave Mesopotamia?\" (Source D).",
+     "label": "From your class packet.",
+     "paras": [
+      "Unlike southern Mesopotamia, much of Canaan depended heavily on seasonal rainfall rather than a large river-based irrigation system.",
+      "Canaan contained towns and fortified settlements as well as rural and pastoral communities.",
+      "The region was already inhabited by different groups. Land and water were not simply unclaimed.",
+      "Rainfall and harvests could vary from year to year. Drought and famine were serious dangers in the ancient Near East."
+     ]
+    },
+    "G12": {
+     "title": "Leaving Haran (Genesis 12:1–4)",
+     "attr": "Genesis 12:1–4, as printed in your Lesson 1.4 source sheet.",
+     "label": "From your class packet.",
+     "paras": [
+      "1. G-d said to Avram, \"Go forth from your land, from your birthplace and from your father's house to the land that I will show you.",
+      "2. I will make of you a great nation, and I will bless you; I will make your name great, and you shall be a blessing.",
+      "3. I will bless those who bless you … and all the families of the earth shall bless themselves by you.\"",
+      "4. So Avram went, as G-d had spoken to him, and Lot went with him."
+     ]
+    },
+    "BR": {
+     "title": "The palace (Bereishit Rabbah 39:1)",
+     "attr": "Midrash compiled c. 5th century CE, as printed in \"Avraham: Why Was He Chosen?\"",
+     "label": "From your class packet.",
+     "text": "A man was traveling when he saw a beautifully illuminated palace. He wondered, 'Is it possible that this palace has no owner?' Immediately the owner looked out and said, 'I am the owner of this palace.' Likewise, Avraham looked at the world and wondered, 'Is it possible that this world has no One who governs it?' Immediately G-d revealed Himself to Avraham."
+    },
+    "RAM": {
+     "title": "Rambam on Avraham",
+     "attr": "Rambam (Maimonides), Mishneh Torah, Laws of Foreign Worship 1:3, as printed in \"Avraham: Why Was He Chosen?\"",
+     "label": "From your class packet.",
+     "text": "After this mighty man was weaned, he began to explore and think. Though he was a child he began to think incessantly … wondering: how is it possible for the sphere to continue to revolve without having anyone controlling it? Who is causing it to revolve? … He had no teacher… Rather he was mired in Ur Kasdim among the foolish idolaters… He realized that there was one G-d who controlled the sphere, that He created everything, and that there is no other G-d among all the other entities… Abraham was forty years old when he became aware of his Creator."
+    },
+    "G13": {
+     "title": "Avraham and Lot (Genesis 13:7–11)",
+     "attr": "Genesis 13, as printed in your Lesson 1.4 source sheet.",
+     "label": "From your class packet.",
+     "paras": [
+      "7. There was quarreling between the herdsmen of Avram and the herdsmen of Lot.",
+      "8. Avram said to Lot, \"Let there be no quarrel between you and me, and between my herdsmen and yours, for we are relatives.",
+      "9. Is not the whole land before you? Please separate from me. If you go to the left, I will go to the right; and if you go to the right, I will go to the left.\"",
+      "10–11. Lot looked out, chose the well-watered Jordan plain for himself, and the two separated."
+     ]
+    },
+    "G18": {
+     "title": "Avraham pleads for Sodom (Genesis 18:23–25)",
+     "attr": "Genesis 18, as printed in your Avraham text study.",
+     "label": "From your class packet.",
+     "text": "Abraham came forward and said, \"Will You indeed sweep away the innocent along with the guilty? What if there should be fifty innocent within the city; will You then wipe out the place and not forgive it for the sake of the innocent fifty who are in it? Far be it from You to do such a thing, to bring death upon the innocent as well as the guilty, so that innocent and guilty fare alike. Far be it from You! Shall not the Judge of all the earth deal justly?\""
+    },
+    "G16": {
+     "title": "Hagar (Genesis 16:1–6)",
+     "attr": "Genesis 16, as printed in your Lesson 1.4 source sheet.",
+     "label": "From your class packet.",
+     "paras": [
+      "Sarai said to Avram, \"G-d has kept me from bearing. Consort with my servant; perhaps I shall have a son through her.\" And Avram listened to Sarai.",
+      "He came to Hagar and she conceived; and when she saw that she had conceived, her mistress was lowered in her esteem.",
+      "Sarai said to Avram, \"The wrong done me is your fault! … Let G-d decide between you and me!\"",
+      "Avram said to Sarai, \"Your servant is in your hands; do to her as you think best.\" Then Sarai treated her harshly, and Hagar ran away from her."
+     ]
+    },
+    "G22": {
+     "title": "Akeidat Yitzchak (Genesis 22:1–3, 7–8)",
+     "attr": "Genesis 22, as printed in your Lesson 1.4 source sheet.",
+     "label": "From your class packet.",
+     "paras": [
+      "G-d tested Avraham and said to him, \"Avraham,\" and he answered, \"Here I am.\" G-d said, \"Take your son, your favored one, Yitzchak, whom you love, and go to the land of Moriah, and offer him there as a burnt offering…\"",
+      "So early the next morning, Avraham saddled his donkey … and set out for the place of which G-d had told him.",
+      "Yitzchak said, \"Father! … Here are the firestone and the wood; but where is the sheep for the burnt offering?\" Avraham said, \"G-d will see to the sheep for the burnt offering, my son.\" And the two of them walked on together."
+     ]
+    },
+    "SIN": {
+     "title": "Sinai and after (Exodus 19, Exodus 24, Deuteronomy 27)",
+     "attr": "As printed in Lesson 2.3 \"From Family to Nation.\"",
+     "label": "From your class packet.",
+     "paras": [
+      "\"Now, therefore, if you obey my voice faithfully and keep my Covenant, you shall be my treasured possession among all peoples … you shall be to me a kingdom of priests and a holy nation.\" (Exodus 19:5–6)",
+      "\"All the people answered with one voice, saying: 'Everything that the Lord has spoken we will do' … They said, 'Everything that the Lord has spoken we will do and obey.'\" (Exodus 24:3, 7)",
+      "\"Be silent, Israel, and listen. This day you have become the people of the Lord your G-d. Therefore, obey the Lord your G-d and follow His commandments and decrees.\" (Deuteronomy 27:9–10, forty years later)"
+     ]
+    },
+    "G46": {
+     "title": "Jacob's household (Genesis 46:26–27)",
+     "attr": "Genesis 46, as printed in Lesson 2.1.",
+     "label": "From your class packet.",
+     "text": "All the persons belonging to Jacob who came to Egypt — his own issue aside from the wives of Jacob's sons — all these persons numbered 66. And Joseph's sons who were born to him in Egypt were two in number. Thus the total of Jacob's household who came to Egypt was 70 persons."
+    },
+    "EX1": {
+     "title": "A new king (Exodus 1:6–10)",
+     "attr": "Exodus 1, as printed in Lesson 2.1.",
+     "label": "From your class packet.",
+     "paras": [
+      "Joseph died, and all his brothers, and all that generation. But the Israelites were fertile and prolific; they multiplied and increased very greatly, so that the land was filled with them.",
+      "A new king arose over Egypt who did not know Joseph. And he said to his people, 'Look, the Israelite people are far too numerous for us. Let us deal shrewdly with them, so that they may not increase; otherwise in the event of war, they may join our enemies in fighting against us and rise from the ground.'"
+     ]
+    },
+    "G47": {
+     "title": "Settling in Goshen (Genesis 45:10; 47:27)",
+     "attr": "Genesis 45 and 47, as printed in Lesson 2.2.",
+     "label": "From your class packet.",
+     "paras": [
+      "\"You will dwell in the region of Goshen where you will be near me — you and your children and your grandchildren, your flocks and your herds and all that is yours.\" (45:10)",
+      "\"Thus Israel settled in the country of Egypt in the region of Goshen; they acquired holdings in it, and were fertile and increased greatly.\" (47:27)"
+     ]
+    },
+    "G50": {
+     "title": "Joseph's last words (Genesis 50:20–25)",
+     "attr": "Genesis 50, as printed in Lesson 2.2.",
+     "label": "From your class packet.",
+     "text": "\"Besides, although you intended me harm, G-d intended it for good, so as to bring about the present result — the survival of many people…\" So Joseph and his father's household remained in Egypt… At length, Joseph said to his brothers, 'I am about to die. G-d will surely take notice of you and bring you up from this land to the land G-d promised on oath to Abraham, to Isaac and to Jacob.' So Joseph made the sons of Israel swear, saying, 'When G-d has taken notice of you, you shall carry up my bones from here.'"
+    },
+    "KN": {
+     "title": "Election check-ins",
+     "attr": "From your Israel Elections 2026 assignment (JTA tracker).",
+     "label": "From your class packet.",
+     "table": [
+      [
+       "Check-in",
+       "Type of information",
+       "Largest party",
+       "Blocs"
+      ],
+      [
+       "Tuesday, before results",
+       "Poll of polls (projected seats)",
+       "Yashar and Likud tied, 22 each",
+       "Opposition 53, Netanyahu bloc 53, unaligned 14"
+      ],
+      [
+       "Tuesday night",
+       "Exit polls plus 33% of votes counted",
+       "Likud, 27 projected",
+       "No bloc reaches 61"
+      ],
+      [
+       "Wednesday morning",
+       "79% of votes counted plus forecast",
+       "Likud, 27",
+       "No bloc reaches 61"
+      ]
+     ]
+    },
+    "AS": {
+     "title": "Two statements about a protest",
+     "attr": "Written for practice using the distinction in your study guide.",
+     "label": "Practice source (written for practice from your class materials; not a verbatim quotation).",
+     "paras": [
+      "Statement 1: \"I oppose this Israeli government policy, and here are the reports that explain why.\"",
+      "Statement 2: \"Jews everywhere are responsible for what Israel's government does.\""
+     ]
+    },
+    "WWS": {
+     "title": "What would you save?",
+     "attr": "From \"What Would You Save? Rebuilding Jewish Life,\" your two-day assignment.",
+     "label": "From your class packet.",
+     "paras": [
+      "A Torah scroll is valuable, but someone must know how to read it. A Jewish calendar identifies holidays, but people must understand how to observe them.",
+      "But knowledge alone is not enough. Communities also need institutions. Jews living in a new place may establish a synagogue, school, cemetery, charitable organization, court, or system for caring for people who are poor or sick.",
+      "If a community refuses to adapt at all, survival may become difficult. But adapting too completely creates a different problem. If every distinctive tradition disappears, what exactly is being preserved?"
+     ]
+    }
+   },
+   "questions": [
+    {
+     "id": "M1",
+     "type": "mcq",
+     "skill": "Compare sources",
+     "topic": "Avraham",
+     "stem": "Using this source and your evidence packet's description of Canaan, which contrast between Ur and Canaan is best supported?",
+     "options": [
+      "Ur was empty; Canaan was crowded with cities",
+      "Ur relied on rivers; Canaan on rain",
+      "Ur had no trade; Canaan traded widely",
+      "Ur was inhabited; Canaan was unclaimed land"
+     ],
+     "ans": 1,
+     "exp": "Irrigation vs. seasonal rainfall.",
+     "why": [
+      "Ur was a developed city; Canaan had towns and rural areas.",
+      "",
+      "Ur traded long-distance.",
+      "Canaan was already inhabited."
+     ],
+     "src": "UR"
+    },
+    {
+     "id": "M2",
+     "type": "mcq",
+     "skill": "Counterevidence",
+     "topic": "Avraham",
+     "stem": "A student says moving to Canaan was simply a move to free, empty land. Which detail best refutes this?",
+     "options": [
+      "Canaan grew grain, grapes and olives for its towns and villages",
+      "Canaan depended on seasonal rainfall",
+      "Canaan had coastal plains and valleys",
+      "Canaan was already inhabited by different groups"
+     ],
+     "ans": 3,
+     "exp": "\"Land and water were not simply unclaimed.\"",
+     "why": [
+      "That doesn't address whether land was claimed.",
+      "That's about farming, not ownership.",
+      "That's geography, not ownership.",
+      ""
+     ],
+     "src": "CAN"
+    },
+    {
+     "id": "M3",
+     "type": "mcq",
+     "skill": "Cause and effect",
+     "topic": "Family to Nation",
+     "stem": "Which detail from this source best helps explain why Yaakov's family later went down to Egypt?",
+     "options": [
+      "Drought and famine were serious dangers",
+      "Canaan had fortified settlements",
+      "Canaan grew grapes and olives",
+      "Routes through Canaan led north and east to other regions"
+     ],
+     "ans": 0,
+     "exp": "The famine in Joseph's time drove them to Egypt.",
+     "why": [
+      "",
+      "That doesn't explain going to Egypt.",
+      "That doesn't explain leaving.",
+      "Egypt is to the south."
+     ],
+     "src": "CAN"
+    },
+    {
+     "id": "M4",
+     "type": "mcq",
+     "skill": "Inference",
+     "topic": "Avraham",
+     "stem": "Which inference is best supported by verse 4 alone?",
+     "options": [
+      "Avram wanted to escape from his father's family in Haran",
+      "Avram knew exactly where he was going",
+      "Avram's response was immediate obedience",
+      "Avram argued before agreeing to go"
+     ],
+     "ans": 2,
+     "exp": "The verse records action without discussion.",
+     "why": [
+      "Nothing says he wanted to escape.",
+      "The land is 'the land I will show you.'",
+      "",
+      "He asks no questions."
+     ],
+     "src": "G12"
+    },
+    {
+     "id": "M5",
+     "type": "mcq",
+     "skill": "Apply a concept",
+     "topic": "Covenant",
+     "stem": "Which modern example is most like the relationship created in Genesis 12?",
+     "options": [
+      "A boss who gives orders to workers and promises them nothing in return",
+      "A person who privately believes something",
+      "A mentor and student who each commit to the other",
+      "A shopper who buys one item and leaves"
+     ],
+     "ans": 2,
+     "exp": "A covenant is two-way and ongoing.",
+     "why": [
+      "That is one-sided command.",
+      "That is belief, not a two-sided bond.",
+      "",
+      "A covenant is ongoing."
+     ],
+     "src": "G12"
+    },
+    {
+     "id": "M6",
+     "type": "mcq",
+     "skill": "Evaluate a claim",
+     "topic": "Covenant",
+     "stem": "A classmate says, 'Genesis 12 gives Avram nothing in return for leaving.' Which part of the passage best refutes this?",
+     "options": [
+      "Verses 2 and 3",
+      "Verse 1 only",
+      "Verse 4 only",
+      "The mention of Lot"
+     ],
+     "ans": 0,
+     "exp": "Verses 2–3 hold the promises.",
+     "why": [
+      "",
+      "Verse 1 is the command.",
+      "Verse 4 is Avram's response.",
+      "Lot is a companion, not a promise."
+     ],
+     "src": "G12"
+    },
+    {
+     "id": "M7",
+     "type": "mcq",
+     "skill": "Compare interpretations",
+     "topic": "Avraham",
+     "stem": "How does the palace midrash change our picture of Avraham compared with Genesis 12?",
+     "options": [
+      "He is shown refusing to believe in G-d",
+      "He is shown as a king who already owns a great palace",
+      "He is shown arguing about Sodom",
+      "He is shown searching before G-d speaks"
+     ],
+     "ans": 3,
+     "exp": "Genesis 12 starts with G-d's call; the midrash starts with Avraham's question.",
+     "why": [
+      "He seeks the owner.",
+      "He is the traveler, not the owner.",
+      "That is Genesis 18.",
+      ""
+     ],
+     "src": "BR"
+    },
+    {
+     "id": "M8",
+     "type": "mcq",
+     "skill": "Best-supported conclusion",
+     "topic": "Avraham",
+     "stem": "Which position is best supported by Rambam alone?",
+     "options": [
+      "G-d chose Avraham with no search by him",
+      "Avraham took the first step",
+      "Avraham learned of G-d from a teacher",
+      "Avraham's family taught him one G-d"
+     ],
+     "ans": 1,
+     "exp": "Position B: Avraham chose G-d.",
+     "why": [
+      "Rambam stresses Avraham's search.",
+      "",
+      "Rambam says he had no teacher.",
+      "He was among idolaters."
+     ],
+     "src": "RAM"
+    },
+    {
+     "id": "M9",
+     "type": "mcq",
+     "skill": "Limits of a source",
+     "topic": "Avraham",
+     "stem": "Which is the best reason a historian might treat Rambam differently from Genesis 12?",
+     "options": [
+      "Rambam contradicts every single detail found in Genesis 12",
+      "Rambam interprets the story centuries later",
+      "Rambam never mentions Ur or idolaters",
+      "Rambam was an eyewitness to Avraham's life"
+     ],
+     "ans": 1,
+     "exp": "Interpretation vs. the base text.",
+     "why": [
+      "He adds to the story; he doesn't contradict it all.",
+      "",
+      "He mentions both.",
+      "He lived much later."
+     ],
+     "src": "RAM"
+    },
+    {
+     "id": "M10",
+     "type": "mcq",
+     "skill": "Best-supported conclusion",
+     "topic": "Avraham",
+     "stem": "Based on Genesis 12, the midrash and Rambam together, which position is best supported?",
+     "options": [
+      "Only G-d chose, and Avraham did nothing",
+      "Only Avraham chose, and G-d did nothing",
+      "Neither chose; Avraham inherited his role",
+      "Avraham and G-d chose each other"
+     ],
+     "ans": 3,
+     "exp": "Each source shows a different side; together they support Position C.",
+     "why": [
+      "Rambam and the midrash show Avraham searching.",
+      "Genesis 12 shows G-d calling.",
+      "The sources show active choosing.",
+      ""
+     ]
+    },
+    {
+     "id": "M11",
+     "type": "mcq",
+     "skill": "Character from evidence",
+     "topic": "Avraham",
+     "stem": "Which conclusion about Avraham is best supported by Genesis 13?",
+     "options": [
+      "He gave up an advantage to keep peace",
+      "He was afraid of losing a fight with Lot",
+      "He wanted the well-watered plain for himself",
+      "He disobeyed G-d by separating from Lot"
+     ],
+     "ans": 0,
+     "exp": "Lot got first choice.",
+     "why": [
+      "",
+      "No fear is mentioned.",
+      "Lot chose it.",
+      "No command is broken."
+     ],
+     "src": "G13"
+    },
+    {
+     "id": "M12",
+     "type": "mcq",
+     "skill": "Compare two sources",
+     "topic": "Avraham",
+     "stem": "Which pair best shows Avraham acting differently in different situations?",
+     "options": [
+      "Arguing with G-d in Genesis 12; silent before G-d in Genesis 18",
+      "Silent in both stories",
+      "Silent in Genesis 12; arguing in Genesis 18",
+      "Arguing for himself in both"
+     ],
+     "ans": 2,
+     "exp": "Obedience in one, challenge in the other.",
+     "why": [
+      "It is the reverse.",
+      "He argues in Genesis 18.",
+      "",
+      "In 18 he argues for strangers."
+     ],
+     "src": "G18"
+    },
+    {
+     "id": "M13",
+     "type": "mcq",
+     "skill": "Significance",
+     "topic": "Avraham",
+     "stem": "Why is Avraham's argument for Sodom significant for understanding the relationship with G-d?",
+     "options": [
+      "It shows the relationship between them had already ended",
+      "It shows Avraham owned Sodom",
+      "It shows questioning can be part of it",
+      "It shows G-d refused to listen"
+     ],
+     "ans": 2,
+     "exp": "Your reflection: Judaism leaves room for questioning.",
+     "why": [
+      "It continues afterward.",
+      "He had no claim to Sodom.",
+      "",
+      "G-d listens to the argument."
+     ],
+     "src": "G18"
+    },
+    {
+     "id": "M14",
+     "type": "mcq",
+     "skill": "Character from evidence",
+     "topic": "Avraham",
+     "stem": "Which statement about Avraham in the Hagar story is best supported?",
+     "options": [
+      "He avoided responsibility for the conflict",
+      "He protected Hagar from harm",
+      "He argued with G-d for Hagar's sake",
+      "He ordered Hagar to run away into the wilderness"
+     ],
+     "ans": 0,
+     "exp": "A weakness, which matters for 'chosen, not perfect.'",
+     "why": [
+      "",
+      "He left her 'in your hands.'",
+      "No argument appears.",
+      "Sarai treated her harshly and she fled."
+     ],
+     "src": "G16"
+    },
+    {
+     "id": "M15",
+     "type": "mcq",
+     "skill": "Compare two sources",
+     "topic": "Avraham",
+     "stem": "Which question best captures the tension between Genesis 18 and Genesis 22?",
+     "options": [
+      "Why Lot left for the Jordan plain",
+      "Why Sarai gave Hagar to Avraham",
+      "Why Pharaoh feared the Israelites in Exodus chapter 1",
+      "Why he argues for strangers but not his son"
+     ],
+     "ans": 3,
+     "exp": "He challenges G-d for Sodom but rises early to obey at the Akeida.",
+     "why": [
+      "That is Genesis 13.",
+      "That is Genesis 16.",
+      "That is Exodus 1.",
+      ""
+     ],
+     "src": "G22"
+    },
+    {
+     "id": "M16",
+     "type": "mcq",
+     "skill": "Best-supported conclusion",
+     "topic": "Avraham",
+     "stem": "Using the five stories, which claim about why G-d chose Avraham is strongest?",
+     "options": [
+      "He was chosen because he never made a mistake",
+      "He was chosen despite flaws, for his faith and moral courage",
+      "He was chosen because he was the richest man",
+      "He was chosen only because he always obeyed in silence, never questioning"
+     ],
+     "ans": 1,
+     "exp": "Strengths and weaknesses both appear.",
+     "why": [
+      "The Hagar story shows a flaw.",
+      "",
+      "Wealth isn't given as a reason.",
+      "He also argues in Genesis 18."
+     ]
+    },
+    {
+     "id": "M17",
+     "type": "mcq",
+     "skill": "Apply a concept",
+     "topic": "Covenant",
+     "stem": "A student is named team captain and then says, 'Now I never have to listen to anyone.' How does this misunderstand chosenness as your class defined it?",
+     "options": [
+      "Being chosen means you can't make mistakes",
+      "Being chosen adds duties, not privileges",
+      "Being chosen means nothing at all",
+      "Being chosen means only others have duties"
+     ],
+     "ans": 1,
+     "exp": "Chosenness = responsibility, not superiority or perfection.",
+     "why": [
+      "Chosen doesn't mean perfect.",
+      "",
+      "It brings responsibility.",
+      "The chosen one takes on duties."
+     ]
+    },
+    {
+     "id": "M18",
+     "type": "mcq",
+     "skill": "Distinguish concepts",
+     "topic": "Covenant",
+     "stem": "Which best explains why a covenant is different from personal belief?",
+     "options": [
+      "It requires believing in many gods",
+      "It happens only privately, inside a single person's mind",
+      "It needs no action from anyone",
+      "It creates commitments on both sides"
+     ],
+     "ans": 3,
+     "exp": "Belief alone doesn't make someone Jewish; the covenant adds obligations.",
+     "why": [
+      "The covenant is with one G-d.",
+      "That describes private belief.",
+      "It requires action.",
+      ""
+     ]
+    },
+    {
+     "id": "M19",
+     "type": "mcq",
+     "skill": "Sequence",
+     "topic": "Covenant",
+     "stem": "Which order best shows how the covenant develops?",
+     "options": [
+      "Avraham's call → brit milah → Sinai → renewal",
+      "Sinai → Avraham's call → brit milah → renewal",
+      "Renewal → Sinai → Avraham's call → brit milah",
+      "Brit milah → renewal → Avraham's call → Sinai"
+     ],
+     "ans": 0,
+     "exp": "Individual call, covenant sign, national covenant, renewal by the next generation.",
+     "why": [
+      "",
+      "Sinai comes long after Avraham.",
+      "Renewal comes last.",
+      "The call comes first."
+     ]
+    },
+    {
+     "id": "M20",
+     "type": "mcq",
+     "skill": "Significance",
+     "topic": "Covenant",
+     "stem": "Why does passing righteousness and justice to future generations matter for the covenant?",
+     "options": [
+      "It lets later generations ignore it",
+      "It means the covenant ends the moment Avraham himself dies",
+      "The covenant lasts only if each generation keeps it",
+      "It applies only to Avraham himself"
+     ],
+     "ans": 2,
+     "exp": "Your notes: responsibility for Avraham and his descendants.",
+     "why": [
+      "The opposite.",
+      "It continues through descendants.",
+      "",
+      "It passes to his descendants."
+     ]
+    },
+    {
+     "id": "M21",
+     "type": "mcq",
+     "skill": "Compare covenants",
+     "topic": "Covenant",
+     "stem": "Which statement best compares the covenant with Avraham and the covenant at Sinai?",
+     "options": [
+      "Both were made with the whole people",
+      "Both had no conditions at all",
+      "One individual first; then a whole people with laws",
+      "Sinai replaced Avraham's covenant entirely and erased its promises"
+     ],
+     "ans": 2,
+     "exp": "Individual vs. national; promise vs. conditions and laws.",
+     "why": [
+      "Avraham's was with one man.",
+      "Sinai has conditions.",
+      "",
+      "It builds on it."
+     ],
+     "src": "SIN"
+    },
+    {
+     "id": "M22",
+     "type": "mcq",
+     "skill": "Significance",
+     "topic": "Covenant",
+     "stem": "What was most significant about 'we will do and obey'?",
+     "options": [
+      "The people committed to act together",
+      "The people refused the covenant",
+      "Only the leaders agreed",
+      "The laws were forced on them against their will"
+     ],
+     "ans": 0,
+     "exp": "A shared choice that turns a family into a nation.",
+     "why": [
+      "",
+      "They accepted it.",
+      "All the people answered.",
+      "They chose them."
+     ],
+     "src": "SIN"
+    },
+    {
+     "id": "M23",
+     "type": "mcq",
+     "skill": "Apply a concept",
+     "topic": "Covenant",
+     "stem": "Someone notices a friend being mocked, says nothing, and later says, 'It wasn't my fault.' What would the Yom Kippur lesson say?",
+     "options": [
+      "Guilty, because they mocked the friend",
+      "Not involved at all, since it wasn't theirs",
+      "Only responsible if a teacher saw it",
+      "Not guilty, but still responsible to act"
+     ],
+     "ans": 3,
+     "exp": "Guilt ≠ responsibility; noticing isn't acting.",
+     "why": [
+      "They didn't do the mocking.",
+      "Belonging asks something of them.",
+      "Responsibility doesn't depend on being seen.",
+      ""
+     ]
+    },
+    {
+     "id": "M24",
+     "type": "mcq",
+     "skill": "Family tree",
+     "topic": "Family Tree",
+     "stem": "Which order is correct?",
+     "options": [
+      "Avraham → Yishmael → Yaakov → 12 sons",
+      "Avraham → Yitzchak → Yaakov → 12 sons",
+      "Yitzchak → Avraham → Yaakov → 12 sons",
+      "Avraham → Yaakov → Yitzchak → 12 sons"
+     ],
+     "ans": 1,
+     "exp": "Jewish lineage runs through Yitzchak and Yaakov.",
+     "why": [
+      "Yaakov is Yitzchak's son.",
+      "",
+      "Avraham is Yitzchak's father.",
+      "Yitzchak comes before Yaakov."
+     ]
+    },
+    {
+     "id": "M25",
+     "type": "mcq",
+     "skill": "Family tree",
+     "topic": "Family Tree",
+     "stem": "Joseph and Benjamin share a mother. Who is she?",
+     "options": [
+      "Leah",
+      "Rachel",
+      "Zilpah",
+      "Rivka"
+     ],
+     "ans": 1,
+     "exp": "Rachel, Yaakov's beloved wife.",
+     "why": [
+      "Leah's sons include Reuben and Judah.",
+      "",
+      "Zilpah's sons are Gad and Asher.",
+      "Rivka is Yaakov's mother."
+     ]
+    },
+    {
+     "id": "M26",
+     "type": "mcq",
+     "skill": "Evidence",
+     "topic": "Family to Nation",
+     "stem": "Which detail best supports calling Yaakov's group a family in Genesis 46?",
+     "options": [
+      "It describes them filling the land",
+      "It calls them 'the Israelite people'",
+      "It describes laws given at Sinai",
+      "It counts 70 related persons"
+     ],
+     "ans": 3,
+     "exp": "Small, related by blood and marriage.",
+     "why": [
+      "That's Exodus 1.",
+      "That's Pharaoh in Exodus 1.",
+      "That's much later.",
+      ""
+     ],
+     "src": "G46"
+    },
+    {
+     "id": "M27",
+     "type": "mcq",
+     "skill": "Cause and effect",
+     "topic": "Family to Nation",
+     "stem": "What is the most direct cause of Pharaoh's new attitude toward the Israelites?",
+     "options": [
+      "Their rapid growth in Egypt",
+      "Their departure from Goshen",
+      "Their acceptance of the Torah",
+      "Their alliance with Egypt's enemies"
+     ],
+     "ans": 0,
+     "exp": "Growth plus a king who 'did not know Joseph.'",
+     "why": [
+      "",
+      "They stayed in Goshen.",
+      "That came later, at Sinai.",
+      "He fears they might; they haven't."
+     ],
+     "src": "EX1"
+    },
+    {
+     "id": "M28",
+     "type": "mcq",
+     "skill": "Evidence vs. inference",
+     "topic": "Family to Nation",
+     "stem": "Which statement is Pharaoh's fear rather than a fact stated in the text?",
+     "options": [
+      "The Israelites multiplied greatly",
+      "A new king arose over Egypt who did not know Joseph",
+      "The Israelites would join Egypt's enemies",
+      "Joseph and all of his generation died"
+     ],
+     "ans": 2,
+     "exp": "He says they 'may' join enemies, a fear, not an event.",
+     "why": [
+      "The text states this as fact.",
+      "Stated as fact.",
+      "",
+      "Stated as fact."
+     ],
+     "src": "EX1"
+    },
+    {
+     "id": "M29",
+     "type": "mcq",
+     "skill": "Cause and effect",
+     "topic": "Family to Nation",
+     "stem": "Which pair gives the best practical explanation for staying in Egypt?",
+     "options": [
+      "Slavery and the threat of Pharaoh's army",
+      "The Ten Commandments and the Mishkan",
+      "Fertile land and Joseph's protection",
+      "The Jordan crossing and manna"
+     ],
+     "ans": 2,
+     "exp": "Goshen was fertile; Joseph had power.",
+     "why": [
+      "Those came later.",
+      "Those came after the Exodus.",
+      "",
+      "Those came later."
+     ],
+     "src": "G47"
+    },
+    {
+     "id": "M30",
+     "type": "mcq",
+     "skill": "Covenant connection",
+     "topic": "Family to Nation",
+     "stem": "How might Joseph's words have encouraged later generations to remain in Egypt?",
+     "options": [
+      "They could wait for G-d to bring them out",
+      "They made Egypt the promised land",
+      "They commanded an immediate departure",
+      "They told them to fight Pharaoh and take Egypt's land"
+     ],
+     "ans": 0,
+     "exp": "Pakod yifkod: leaving is on G-d's timing.",
+     "why": [
+      "",
+      "He names Canaan as the promised land.",
+      "He speaks of the future.",
+      "Nothing about fighting."
+     ],
+     "src": "G50"
+    },
+    {
+     "id": "M31",
+     "type": "mcq",
+     "skill": "Evidence vs. inference",
+     "topic": "Family to Nation",
+     "stem": "Which is something a historian may INFER about why the Israelites stayed in Egypt, rather than what the Torah says?",
+     "options": [
+      "\"The iniquity of the Amorites is not yet complete\"",
+      "\"G-d will surely take notice of you\"",
+      "\"They acquired holdings and increased\"",
+      "Economic comfort made leaving unattractive"
+     ],
+     "ans": 3,
+     "exp": "Torah says / we observe / historians infer.",
+     "why": [
+      "That is what the Torah says.",
+      "That is the Torah's text.",
+      "That is the Torah's text.",
+      ""
+     ]
+    },
+    {
+     "id": "M32",
+     "type": "mcq",
+     "skill": "Classify",
+     "topic": "Family to Nation",
+     "stem": "By Exodus 1, which description of the Israelites is best supported?",
+     "options": [
+      "A family of 70 people",
+      "A people, not yet a nation",
+      "A nation with land and laws",
+      "A kingdom ruling Egypt"
+     ],
+     "ans": 1,
+     "exp": "Shared history and identity; no land or government.",
+     "why": [
+      "They have grown far beyond 70.",
+      "",
+      "They have no land or laws of their own yet.",
+      "They are about to be oppressed."
+     ]
+    },
+    {
+     "id": "M33",
+     "type": "mcq",
+     "skill": "Evaluate rankings",
+     "topic": "Family to Nation",
+     "stem": "Which reason best supports ranking the Ten Commandments above manna in creating a nation?",
+     "options": [
+      "Manna happened before the Exodus",
+      "Laws gave everyone the same standards",
+      "The Ten Commandments ended slavery",
+      "Manna was given only to Moshe and the priests"
+     ],
+     "ans": 1,
+     "exp": "Laws hold a nation together; manna sustained them but added no new feature.",
+     "why": [
+      "Manna came after the Exodus.",
+      "",
+      "Leaving Egypt ended slavery.",
+      "Manna fed everyone."
+     ]
+    },
+    {
+     "id": "M34",
+     "type": "mcq",
+     "skill": "Counterevidence",
+     "topic": "Family to Nation",
+     "stem": "A student claims, 'The Israelites became a nation only when they entered the land.' Which evidence best challenges this?",
+     "options": [
+      "They crossed the Jordan on dry ground",
+      "Pharaoh called them far too numerous for Egypt to handle",
+      "Genesis counts Yaakov's household as 70 persons",
+      "Sinai calls them 'a holy nation' in the wilderness"
+     ],
+     "ans": 3,
+     "exp": "Exodus 19 and Deuteronomy 27 both speak to them before the land.",
+     "why": [
+      "That supports the student's timing.",
+      "That shows a people, not nationhood.",
+      "That shows a family.",
+      ""
+     ],
+     "src": "SIN"
+    },
+    {
+     "id": "M35",
+     "type": "mcq",
+     "skill": "Best-supported conclusion",
+     "topic": "Israel",
+     "stem": "Based on the table, which conclusion is best supported?",
+     "options": [
+      "Having the most seats did not mean governing",
+      "Likud won a majority of 61 seats",
+      "Yashar won the election outright",
+      "The poll of polls was the final official election result"
+     ],
+     "ans": 0,
+     "exp": "Largest party ≠ majority ≠ government.",
+     "why": [
+      "",
+      "No bloc reached 61.",
+      "Likud led the count.",
+      "Polls aren't results."
+     ],
+     "src": "KN"
+    },
+    {
+     "id": "M36",
+     "type": "mcq",
+     "skill": "Apply a concept",
+     "topic": "Israel",
+     "stem": "A coalition of six parties holds 62 seats. One partner with 4 seats quits. What is the most likely result?",
+     "options": [
+      "The government gets stronger",
+      "The president takes over",
+      "The government may fall",
+      "The party that quit becomes largest"
+     ],
+     "ans": 2,
+     "exp": "Coalitions are fragile.",
+     "why": [
+      "It drops to 58, below a majority.",
+      "The president is ceremonial.",
+      "",
+      "4 seats is small."
+     ]
+    },
+    {
+     "id": "M37",
+     "type": "mcq",
+     "skill": "Cause and effect",
+     "topic": "Israel",
+     "stem": "According to your notes, what happened after World War I that led to outside powers governing the land?",
+     "options": [
+      "Israel declared independence",
+      "The Knesset was created",
+      "The Ottoman Empire fell",
+      "Egypt conquered the region"
+     ],
+     "ans": 2,
+     "exp": "Ottoman collapse → mandate system.",
+     "why": [
+      "That came much later.",
+      "Israel didn't exist yet.",
+      "",
+      "Britain and France wanted it."
+     ]
+    },
+    {
+     "id": "M38",
+     "type": "mcq",
+     "skill": "Distinguish claims",
+     "topic": "Antisemitism",
+     "stem": "Which statement is the strongest example of hostility toward Jews as Jews?",
+     "options": [
+      "Statement 2 alone",
+      "Statement 1 alone",
+      "Both, since both mention Israel",
+      "Neither, since both are opinions"
+     ],
+     "ans": 0,
+     "exp": "Criticism of a government ≠ hostility toward Jews as Jews.",
+     "why": [
+      "",
+      "It criticizes a policy with evidence.",
+      "Mentioning Israel isn't hostility to Jews.",
+      "Statement 2 targets Jews as a group."
+     ],
+     "src": "AS"
+    },
+    {
+     "id": "M39",
+     "type": "mcq",
+     "skill": "Overgeneralization",
+     "topic": "Antisemitism",
+     "stem": "Which claim from your review is an overgeneralization that was marked false?",
+     "options": [
+      "A small group can pose a serious risk",
+      "Both scriptures mention warfare",
+      "Some protesters may hold extreme views",
+      "All Palestinians are Muslim"
+     ],
+     "ans": 3,
+     "exp": "'All' turns some into everyone.",
+     "why": [
+      "Marked true; not an overgeneralization.",
+      "Marked true.",
+      "Limited, not overgeneralized.",
+      ""
+     ]
+    },
+    {
+     "id": "M40",
+     "type": "mcq",
+     "skill": "Apply a concept",
+     "topic": "Traditions",
+     "stem": "A community moves to a new country and keeps its prayers and school but switches its daily language. Which idea from the reading does this best show?",
+     "options": [
+      "Refusing to adapt to the new country at all",
+      "Adapting while preserving what matters",
+      "Adapting so completely nothing is left",
+      "Depending on one building to survive"
+     ],
+     "ans": 1,
+     "exp": "The balance between preserving and changing.",
+     "why": [
+      "They changed their language.",
+      "",
+      "They kept prayers and school.",
+      "The reading says Jewish life never depended on one building."
+     ],
+     "src": "WWS"
+    }
+   ]
+  }
+ ]
+}
