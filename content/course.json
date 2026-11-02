@@ -1,6 +1,6 @@
 {
   "id": "jhist",
-  "name": "Jewish History",
+  "name": "Jewish History Honors",
   "tagline": "One kit per test. Pick a test to study; progress in each one is saved in this browser.",
   "hub": "https://dn4563.github.io/Study-Hub-by-David/",
   "accent": "#7A4E2D",
@@ -12,7 +12,7 @@
       "dir": "unit-01-avraham-to-nation",
       "label": "Test 1",
       "title": "Avraham to Nation",
-      "blurb": "Avraham and the covenant, the family tree, Egypt and becoming a nation, antisemitism and evaluating claims, Israel's mandate and government, and (Honors) how traditions develop.",
+      "blurb": "Avraham and the covenant, the family tree, Egypt and becoming a nation, antisemitism and evaluating claims, Israel's mandate and government, and how traditions develop.",
       "learnMix": true
     }
   ]

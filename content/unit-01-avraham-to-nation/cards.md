@@ -215,7 +215,7 @@
 | Con of coalitions | Coalitions can be fragile: if partners withdraw, the government can fall and new elections may follow. | Fragile. |
 | Ruled-out partners | Party leaders often promise not to sit with certain rivals, which makes reaching 61 harder. | Red lines. |
 
-# Deck 8: How Traditions Develop (Honors)
+# Deck 8: How Traditions Develop
 
 ## Torah to tradition
 
