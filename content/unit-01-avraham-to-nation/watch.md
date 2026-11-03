@@ -10,7 +10,7 @@ Notes where your sources disagree, are easy to misread, or need checking. Each s
 - (deck 4) Dinah is Yaakov's daughter. The 12 tribes come from his 12 sons; she isn't one of them.
 - (deck 5) Family / people / nation: Genesis 46 (70 persons) = family. Exodus 1 ("the Israelite people") = people. A nation also has land, laws and government; Sinai and the Mishkan add laws and worship, and entering the land adds a homeland.
 - (deck 5) Lesson 2.2's chart: "Torah says" (Genesis 15:16) is different from "we can observe" and "historians may infer." Don't treat an inference as a quote.
-- (deck 6) Your notes don't give a formal definition of antisemitism. The kit uses your study guide's wording: hostility toward Jews as Jews. If your teacher gave a specific definition in class, use that (VERIFY).
+- (deck 6) Your class's definition of antisemitism: hostility to Jews. The key test: is it aimed at Jews for being Jewish, or at a government's policy?
 - (deck 6) Criticizing a government or policy is not the same as hostility toward Jews as Jews. Your note: supporting Palestinians doesn't by itself mean hostility to Jews.
 - (deck 7) The 3.25% threshold is the minimum to ENTER the Knesset. A party that passes it gets about 4 seats, not 1. Your Israeli Gov notes say "to get 1 seat," which is not quite right.
 - (deck 7) Israel's president is mainly ceremonial but DOES appoint the person who tries to form a government. You missed this on the quick check.

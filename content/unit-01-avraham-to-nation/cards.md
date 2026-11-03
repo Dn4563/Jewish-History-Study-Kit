@@ -173,7 +173,7 @@
 
 | Term | Definition | Hook |
 |---|---|---|
-| Antisemitism | Your study guide's wording: hostility toward Jews as Jews. (Use your class's exact definition if your teacher gave one: VERIFY.) | Hostility to Jews as Jews. |
+| Antisemitism | Hostility to Jews, aimed at them for being Jewish. | Aimed at the people, not a policy. |
 | Criticism vs. hostility | Criticizing a government or policy is different from hostility toward Jews as Jews. | Policy vs. people. |
 | Racial antisemitism | Your notes: Hitler claimed Jewishness was an unchangeable 'inferior' and 'dangerous' race. | Unchangeable label. |
 
