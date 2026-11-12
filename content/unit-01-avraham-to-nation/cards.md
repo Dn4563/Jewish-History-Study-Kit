@@ -1,6 +1,10 @@
 # Deck 1: Mesopotamia and the Call
 
+> Jewish history in this course begins with one man leaving home. This deck covers where Avraham came from, what G-d told him in Genesis 12, and the big question the Torah leaves open: why Avraham?
+
 ## Where Avraham started
+
+> Avraham was born in Mesopotamia, the rich, river-watered land between the Tigris and Euphrates. Cities like Ur had canals, temples, writing and trade. Canaan, where he was sent, was different: rain-farmed hill country, already inhabited. Travel between them took weeks or months and was dangerous. The evidence packet asks: why would anyone leave?
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -12,6 +16,8 @@
 
 ## The call (Genesis 12)
 
+> In Genesis 12:1 G-d tells Avraham, then living in Haran, to leave his land, his birthplace and his father's house for a land he will be shown later. Genesis 12:4 says only that he went; he asks nothing. His going suggests trust or obedience, but the text doesn't tell us what he was thinking, so be careful to separate what it says from what it suggests.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Lech lecha | G-d's command in Genesis 12:1 to go forth from your land, your birthplace and your father's house to the land I will show you. | Go — to an unknown place. |
@@ -20,6 +26,8 @@
 | Suggests vs. proves | Avraham's quick departure points toward trust or obedience, but the text does not establish his inner reasons. | Evidence vs. inference. |
 
 ## Why Avraham?
+
+> The Torah never says why G-d chose Avraham. Later sources fill the gap: the midrash's palace parable shows Avraham searching and G-d answering, and Rambam says he reasoned his way to one G-d as a child. Your class debated who took the first step. Your notes add that belief alone isn't enough: what begins here is a covenant, and with brit milah, a reason to call Avraham the first Jew.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -32,7 +40,11 @@
 
 # Deck 2: Avraham's Character
 
+> The Torah shows Avraham in five very different stories. This deck looks at what each one reveals, and what it means that someone chosen by G-d is clearly not perfect.
+
 ## Five stories
+
+> In Genesis 12 he obeys without a word. With Lot he gives up the better land to keep the peace. At Sodom he argues with G-d for strangers. With Hagar he steps back and lets Sarai decide. At the Akeida he answers 'Here I am' and sets out to offer his own son, until G-d stops him. The puzzle: why argue for Sodom but not for Yitzchak?
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -48,6 +60,8 @@
 
 ## Chosen, not perfect
 
+> Put together, the stories show strengths and weaknesses, which supports your study guide's point: being chosen is about responsibility, not perfection (Moshe is another example). Avraham's family also matters beyond Judaism: Christianity and Islam trace back to him, Islam through Yishmael. Your notes contrast revelation to a whole people at Sinai with revelation to one person.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Chosen but not perfect | The five stories show strengths and weaknesses; being chosen does not require perfection. | Flawed and chosen. |
@@ -58,7 +72,11 @@
 
 # Deck 3: The Covenant
 
+> The covenant (brit) is the core idea of the unit. This deck covers what makes a covenant different from a command or a deal, what each side promises, and how the covenant grows from Avraham to the whole people at Sinai.
+
 ## What a covenant is
+
+> A brit is a relationship where both sides commit and both receive something. That makes it different from a command, which binds only the one who obeys, and from a simple deal, which is a one-time trade. A covenant continues through generations.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -67,6 +85,8 @@
 | Covenant vs. simple deal | A covenant is an ongoing relationship passed down through generations, not a one-time exchange. | A bond, not a receipt. |
 
 ## Promises and obligations
+
+> Avraham's side is to leave home and trust G-d. G-d's side, in Genesis 12:2–3, is a list of promises: a great nation, a great name, blessing, being a blessing, and a blessing for all the families of the earth. On paper the trade looks uneven: one costly act now, promises that unfold over generations.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -79,6 +99,8 @@
 | Uneven trade | Avraham's side is one costly act now; G-d's side is several promises that unfold over generations. | Now vs. later. |
 
 ## How the covenant develops
+
+> The covenant grows over time. Brit milah becomes its physical sign. In Genesis 15, G-d tells Avraham his descendants will be strangers and slaves before they return. Avraham is to pass on righteousness and justice. At Sinai the covenant is offered to the whole people, with conditions, and they answer 'we will do and we will obey.' Forty years later, Moshe renews it with the next generation.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -93,6 +115,8 @@
 
 ## Responsibility
 
+> The Yom Kippur lesson turns the covenant into everyday life: you can be responsible for what happens next even if you didn't cause it. Teshuvah means you can fall short and still return and repair, and there are many ways to step up when something is wrong.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Guilt vs. responsibility | Yom Kippur lesson: you may not have caused a problem and still have responsibility for what happens next. | Not my fault, still my job. |
@@ -101,7 +125,11 @@
 
 # Deck 4: The Family Tree
 
+> The covenant passes down one family. This deck lays out the family tree from Terah, Avraham's father, to Yaakov's 12 sons, the ancestors of the 12 tribes.
+
 ## From Terah to Yaakov
+
+> Terah had three sons, including Avraham and Haran, whose son Lot traveled with Avraham. Avraham's sons were Yishmael (with Hagar) and Yitzchak (with Sarah); the Jewish line runs through Yitzchak. Yitzchak's twin sons were Esau, ancestor of the Edomites, and Yaakov, also called Israel.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -114,6 +142,8 @@
 
 ## Yaakov's wives and children
 
+> Yaakov had children with four women: the sisters Leah and Rachel, and their servants Zilpah and Bilhah. Their 12 sons became the 12 tribes. Joseph, Rachel's son, had two sons of his own in Egypt, Manasseh and Ephraim.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Leah | Rachel's older sister and Yaakov's first wife; mother of Reuben, Simeon, Levi, Judah, Issachar, Zebulun and Dinah. | First wife, most sons. |
@@ -125,7 +155,11 @@
 
 # Deck 5: From Family to People to Nation
 
+> How does one family become a nation? This deck follows Yaakov's household into Egypt, its growth into a people, and the events in the desert that made it a nation.
+
 ## Family, people, nation
+
+> A family is related by blood or marriage; a people is many families with a shared history and values; a nation is a people with land, laws and government. Seventy persons went down to Egypt, and by Exodus 1 they had multiplied and filled the land: a people, but not yet a nation.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -136,6 +170,8 @@
 | Fertile and prolific | Exodus 1:7: the Israelites multiplied and increased greatly, so the land was filled with them. | They filled the land. |
 
 ## Joseph and Egypt
+
+> Egypt first meant salvation: Joseph stored grain and the world came to buy it, and he told his brothers G-d had sent him ahead to save life. The family settled in fertile Goshen and prospered. They had practical reasons to stay, and a covenant reason: waiting for G-d to bring them out (pakod yifkod). Yaakov and Joseph both asked to be buried in the promised land.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -150,12 +186,16 @@
 
 ## A new Pharaoh
 
+> Then 'a new king arose who did not know Joseph.' He saw the Israelites as too numerous and feared they would join Egypt's enemies. Being seen as a separate group was a sign they had become a people.
+
 | Term | Definition | Hook |
 |---|---|---|
 | A new king who did not know Joseph | Exodus 1:8: a new Pharaoh arose who did not know Joseph. | Memory lost. |
 | Pharaoh's fear | Exodus 1:9–10: the Israelites are 'too numerous,' and in war 'they may join our enemies.' | Too many, maybe disloyal. |
 
 ## Becoming a nation (Lesson 2.3)
+
+> Lesson 2.3 lists six events: leaving Egypt (freedom), crossing the sea (belief), manna (daily reliance on G-d), the Ten Commandments (shared law), the Mishkan (shared worship) and entering the land. Your conclusion: becoming a nation was a process, finished, not started, by the land.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -169,7 +209,11 @@
 
 # Deck 6: Antisemitism and Evaluating Claims
 
+> This deck is about thinking clearly: what antisemitism is, how it differs from criticizing a policy, and how to test claims about groups of people.
+
 ## Definitions
+
+> Your class defines antisemitism as hostility to Jews for being Jewish. The key test is whether something targets a government's policy or targets Jews as Jews. Racial antisemitism, as the Nazis taught it, claimed Jewishness was an unchangeable 'race,' so nothing a Jew did could change it.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -178,6 +222,8 @@
 | Racial antisemitism | Your notes: Hitler claimed Jewishness was an unchangeable 'inferior' and 'dangerous' race. | Unchangeable label. |
 
 ## Evaluating claims
+
+> Your true/false review practiced spotting weak claims. Many fail because they stretch a fact about some people to all of them (overgeneralization). At the same time, a small group can still be dangerous. To check any claim, ask who made it, what the evidence is, and whether it applies to all or only some.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -190,7 +236,11 @@
 
 # Deck 7: Israel: Mandate and Government
 
+> From Ottoman rule to today's Knesset: this deck covers how modern Israel's borders were first proposed and how its government is formed after each election.
+
 ## From the Ottomans to partition
+
+> The Ottomans ruled the land from 1517 to 1917. After World War I, the League of Nations' mandate system put it under an established nation meant to prepare the people for self-rule. Because of Arab–Jewish conflict, the land was to be split; your notes say the Jews accepted an unequal deal and the Arabs rejected it.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -199,6 +249,8 @@
 | Partition | Because of Arab–Jewish conflict, the land was to be split; your notes say the split was unequal: Jews accepted a bad deal, and Arabs rejected the better share. | Split, accepted, rejected. |
 
 ## How the government works
+
+> Israel is a parliamentary democracy. Voters choose a party list, parties need about 3.25% to enter the 120-seat Knesset, and a government needs 61 seats. Since no party wins that alone, parties form coalitions, and the largest party governs only if it can build one. Coalitions give small parties influence but can collapse, and promises not to sit with rivals make 61 harder to reach.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -217,7 +269,11 @@
 
 # Deck 8: How Traditions Develop
 
+> Honors material: how do Jewish traditions grow and change while staying connected to the Torah? This deck uses holidays, Rosh Hashanah customs, and what a community needs to survive.
+
 ## Torah to tradition
+
+> Your notes give a path: Torah, then rabbinic interpretation, then tradition, then Jewish history. Simchat Torah is a good example: it isn't commanded in the text, but it grew into a beloved custom. The written Torah is fixed like a constitution; the oral tradition carries interpretation.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -228,6 +284,8 @@
 
 ## Rosh Hashanah customs
 
+> Communities share the same hope for a good year but express it in local ways. Apples and honey date to the 1300s. Ethiopia's Beta Israel, who developed apart from rabbinic communities, didn't center those customs, and some Jews in Izmir used sugar instead of honey. Same core, different forms.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Common core, local form | Jewish communities share the hope for a good year but express it with local foods, words and customs. | Same hope, local flavor. |
@@ -236,6 +294,8 @@
 | Turkish Jews and honey | Some Sephardic families in Izmir avoided the bees' product, worried it might contain bee parts, and dipped apples in sugar instead. | Sugar, not honey. |
 
 ## Keeping a community alive
+
+> What lets a community survive being uprooted? Knowledge that is taught, institutions that organize people, and a balance between adapting and keeping what is distinct. Jewish civilization never depended on one building, job, language or country: its texts travel and its knowledge can be retaught.
 
 | Term | Definition | Hook |
 |---|---|---|
