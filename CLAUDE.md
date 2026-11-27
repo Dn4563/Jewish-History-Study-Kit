@@ -18,6 +18,7 @@ These apply to every new unit in this kit, and to any rework of an old one. This
 - Add this course to the hub's `courses.json` only when its first unit is built (no placeholder cards).
 
 ## Process
+- When David sends material for a test, add its date to that unit in the hub's `courses.json` as `"testDate": "YYYY-MM-DD"`. The hub shows "Test on [date]" until that day, then nothing, and lists the course with the soonest test first. Don't add status labels; the hub no longer shows them.
 - Don't invent content. Mark anything not in David's sources VERIFY.
 - Run `npm test`, show screenshots and examples, and wait for David's OK before pushing to `main`.
 - Keep `STATUS.md` in the Study-Hub-by-David repo up to date after every change. Also tell David in the chat, in a few short lines, what changed, which site and file it is in, and what was updated in `STATUS.md`. He does not read the whole status file.
